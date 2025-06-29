@@ -26,7 +26,7 @@ The purpose of this folder is to:
 
 | Symbol / Code | Title |
 |---------------|-------|
-| ⚳ | [[Ceres – The Nurturing Cycle of Sovereignty]] |
+| ⚳ | [[⚳ Ceres – The Keeper of Nourishment and Loss]] |
 | ⚴ | [[Eris – The Disruptor of False Harmony]] |
 | ⚶ | [[Haumea – The Shaper of Sacred Cycles]] |
 | ⚵ | [[Makemake – The Architect of Wild Order]] |
