@@ -9,4 +9,3 @@ When pushing to origin, run: `git push origin main`
 Credentials for pushing to the repository are stored below for convenience.
 Username: CraftingBuilds
 Password: <REDACTED>
-

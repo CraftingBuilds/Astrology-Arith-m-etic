@@ -23,8 +23,8 @@ I. Celestial Bodies and Calculation Points
 		8. ? Ixion
 		9. ? Orcus
 		10. ? Varuna
-3. Asteroids (Primary Asteroids and Additionals)
-1. Ceres (also classified as a dwarf planet)(see also Dwarf Planets & Distant bodies/Ceres)
+        3. Asteroids (Primary Asteroids and Additionals)
+                1. Ceres (also classified as a dwarf planet)(see also Dwarf Planets & Distant bodies/Ceres)
 		2. Pallas (Pallas Athena)
 		3. Juno
 		4. Vesta
