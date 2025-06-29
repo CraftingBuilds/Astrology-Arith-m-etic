@@ -1,6 +1,6 @@
 1. [[Planets (Classic and Modern)]]
 2. [[Dwarf Planets & Distant Bodies]]
-3. [[Asteroids]]
+3. [[Asteroids (Primary Asteroids and Additionals)]]
 4. [[Calculated Points]]
 5. [[Lunar Nodes & Moons]]
 6. [[Esoteric and Hypothetical Points]]

@@ -13,7 +13,7 @@ I. Celestial Bodies and Calculation Points
 	    9. ♆ Neptune
 	    10. ♇ Pluto
 	2. Dwarf Planets & Distant Bodies # Recognized by modern astrologers for thier mythic/archetypal impact #
-		1. ⚳ Ceres (see also Astteroids/Ceres)
+                1. ⚳ Ceres (see also Asteroids/Ceres)
 		2. ⚴ Eris
 		3. ⚶ Haumea
 		4. ⚵ Makemake

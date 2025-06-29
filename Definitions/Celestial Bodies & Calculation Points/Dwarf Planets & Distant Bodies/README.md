@@ -1,5 +1,5 @@
 # 📁Dwarf Planets & Distant Bodies  
-*Subfolder of:* [[Celestial Bodies and Calculation Points]]  
+*Subfolder of:* [[Celestial Bodies and Calculated Points]]
 which is a *Subfolder of:* [[Definitions]]  
 *Root Directory:* [[Astrology Arith(m)etic Vault - The Building Blocks of Astrology]]
 
