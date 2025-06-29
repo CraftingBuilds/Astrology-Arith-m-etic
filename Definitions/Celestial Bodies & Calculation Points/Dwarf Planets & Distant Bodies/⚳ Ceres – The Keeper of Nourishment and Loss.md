@@ -1,3 +1,4 @@
+# ⚳ Ceres – The Keeper of Nourishment and Loss
 ## Interpretive Basis
 
 **Mythic Root:**
