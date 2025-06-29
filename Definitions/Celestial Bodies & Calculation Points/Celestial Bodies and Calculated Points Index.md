@@ -13,7 +13,7 @@ I. Celestial Bodies and Calculation Points
 	    9. ♆ Neptune
 	    10. ♇ Pluto
 	2. Dwarf Planets & Distant Bodies # Recognized by modern astrologers for thier mythic/archetypal impact #
-		1. ⚳ Ceres (see also [[Asteroids (Primary Asteroids and Additionals)/Ceres]])
+                1. ⚳ Ceres (see also Asteroids (Primary Asteroids and Additionals)/Ceres)
 		2. ⚴ Eris
 		3. ⚶ Haumea
 		4. ⚵ Makemake
@@ -23,8 +23,8 @@ I. Celestial Bodies and Calculation Points
 		8. ? Ixion
 		9. ? Orcus
 		10. ? Varuna
-3. Asteroids (Primary Asteroids and Additionals)
-1. Ceres (also classified as a dwarf planet)(see also Dwarf Planets & Distant bodies/Ceres)
+        3. Asteroids (Primary Asteroids & Additionals)
+                1. Ceres (also classified as a dwarf planet)(see also Dwarf Planets & Distant Bodies/Ceres)
 		2. Pallas (Pallas Athena)
 		3. Juno
 		4. Vesta
@@ -74,7 +74,7 @@ I. Celestial Bodies and Calculation Points
 		9. 🜕 Poseidon (Uranian astrology)
 		10. 🜖 Cupido (Uranian astrology)
 	7. [[Centaurs]] & Deep Space Bodies
-		1. Chiron (again listed here for classification)(see also [[Asteroids (Primary Asteroids and Additionals)/Chiron]])
+                1. Chiron (again listed here for classification)(see also Asteroids (Primary Asteroids and Additionals)/Chiron)
 		2. Pholus
 		3. Nessus
 		4. Asbolus
