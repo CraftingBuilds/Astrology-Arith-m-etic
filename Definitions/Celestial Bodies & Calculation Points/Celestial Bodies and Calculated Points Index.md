@@ -13,7 +13,7 @@ I. Celestial Bodies and Calculation Points
 	    9. ♆ Neptune
 	    10. ♇ Pluto
 	2. Dwarf Planets & Distant Bodies # Recognized by modern astrologers for thier mythic/archetypal impact #
-		1. ⚳ Ceres (see also Astteroids/Ceres)
+		1. ⚳ Ceres (see also [[Asteroids (Primary Asteroids and Additionals)/Ceres]])
 		2. ⚴ Eris
 		3. ⚶ Haumea
 		4. ⚵ Makemake
@@ -23,19 +23,18 @@ I. Celestial Bodies and Calculation Points
 		8. ? Ixion
 		9. ? Orcus
 		10. ? Varuna
-	3. Asteroids (Primary Asteroids & Additionals)
-		1. Ceres (also classified as a dwarf planet)(see also Dwarf Planets & Distant bodies/Ceres)
+3. Asteroids (Primary Asteroids and Additionals)
+1. Ceres (also classified as a dwarf planet)(see also Dwarf Planets & Distant bodies/Ceres)
 		2. Pallas (Pallas Athena)
 		3. Juno
 		4. Vesta
 		5. Chiron (technically a centaur, but often grouped with asteroids)(see also Centaurs & Deep Space Bodies/Chiron)
 		6. Hygeia
 		7. Euphrosyne
-		8. Astraea
-		9. Lilith (asteroid version, #1811)
-		10. Lucifer (#1930)
-		11. Amor (#1221)
-		12. Psyche (#16)
+		8. Lilith (asteroid version, #1811)
+		9. Lucifer (#1930)
+		10. Amor (#1221)
+		11. Psyche (#16)
 	4. Calculated Points # Not physical bodies, but math-based coordinates used in astrology #
 		1. Ascendant (ASC)
 		2. Descendant (DSC)
@@ -75,7 +74,7 @@ I. Celestial Bodies and Calculation Points
 		9. 🜕 Poseidon (Uranian astrology)
 		10. 🜖 Cupido (Uranian astrology)
 	7. [[Centaurs]] & Deep Space Bodies
-		1. Chiron (again listed here for classification)(see also Asteroids/Chiron)
+		1. Chiron (again listed here for classification)(see also [[Asteroids (Primary Asteroids and Additionals)/Chiron]])
 		2. Pholus
 		3. Nessus
 		4. Asbolus
