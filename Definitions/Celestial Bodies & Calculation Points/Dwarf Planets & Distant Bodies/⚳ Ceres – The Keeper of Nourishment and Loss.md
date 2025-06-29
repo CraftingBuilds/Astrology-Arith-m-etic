@@ -1,4 +1,5 @@
 # ⚳ Ceres – The Keeper of Nourishment and Loss
+
 ## Interpretive Basis
 
 **Mythic Root:**
@@ -39,3 +40,5 @@ Nourishment, Separation, Motherhood, Seasonal Rhythm, Grief, Survival, Provision
 ## Use in Astrology Arith(m)etic
 
 Ceres anchors the symbolic logic of **maternal archetypes, nourishment systems, and cyclical grief**. Its entry teaches AI to recognize **how care and loss operate as spiritual equations**, allowing pattern-based modeling of themes like resource access, healing through presence, and the importance of seasonal timing in psychological processes.
+
+See also: [[Asteroids (Primary Asteroids and Additionals)/Ceres]]
