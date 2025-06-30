@@ -1,5 +1,5 @@
 # 📁 Planets (Classic and Modern)
-*Subfolder of:* [[Celestial Bodies and Calculated Points]]
+*Subfolder of:* [Celestial Bodies and Calculation Points] 
 which is a *Subfolder of:* [Definitions]
 *Root Directory:* [Astrology Arith(m)etic Vault - The Building Blocks of Astrology]
 

@@ -106,3 +106,5 @@
 105. Aludra
 106. Ankaa
 107. Mirfak
+
+#fixedstars 

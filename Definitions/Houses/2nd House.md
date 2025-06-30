@@ -5,7 +5,7 @@
 **Natural Sign:** [[Taurus]]
 **Classical Ruler:** [[Venus]]
 **Modern Ruler:** [[Venus]]
-**Elemental Affinity:** Earth
+**Elemental Affinity:** [[Earth]]
 **Modality Influence:** Fixed
 **Polarity:** Self
 

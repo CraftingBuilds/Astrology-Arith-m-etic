@@ -1,5 +1,5 @@
 # 📁Dwarf Planets & Distant Bodies  
-*Subfolder of:* [[Celestial Bodies and Calculated Points]]
+*Subfolder of:* [[Celestial Bodies and Calculation Points]]  
 which is a *Subfolder of:* [[Definitions]]  
 *Root Directory:* [[Astrology Arith(m)etic Vault - The Building Blocks of Astrology]]
 
@@ -26,7 +26,7 @@ The purpose of this folder is to:
 
 | Symbol / Code | Title |
 |---------------|-------|
-| ⚳ | [[⚳ Ceres – The Keeper of Nourishment and Loss]] |
+| ⚳ | [[Ceres – The Nurturing Cycle of Sovereignty]] |
 | ⚴ | [[Eris – The Disruptor of False Harmony]] |
 | ⚶ | [[Haumea – The Shaper of Sacred Cycles]] |
 | ⚵ | [[Makemake – The Architect of Wild Order]] |
