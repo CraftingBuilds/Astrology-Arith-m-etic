@@ -3,7 +3,7 @@
 **Glyph:** ⛤
 
 **Description:**
-The quintile (double quintile) occurs at 144 degrees. It carries the same creative and refined energies as the quintile ~~but can point to~~ ,but its presence can point to more complex ~~or~~ and/or developed skills that require integration ~~across~~ throughout different areas of life. 
+The biquintile (double quintile) occurs at 144 degrees. It carries the same creative and refined energies as the quintile ~~but can point to~~ ,but its presence can point to more complex ~~or~~ and/or developed skills that require integration ~~across~~ throughout different areas of life. 
 This aspect often suggests that one’s talents are being refined over time for a higher balance (higher purpose). While not always visible to others, biquintiles often act as inner blueprints, guiding precision-based mastery and linking the personal to archetypal. 
 
 **Key Points:**
