@@ -2,7 +2,7 @@
 
 ## ✧ Core Association
 
-**Natural Sign:** [[Aries]]
+**Natural Sign:** [[Definitions/Signs/Aries]]
 **Classical Ruler:** [[Mars]]
 **Modern Ruler:** [[Mars]]
 **Elemental Affinity:** Fire

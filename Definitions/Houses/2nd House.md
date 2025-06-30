@@ -2,7 +2,7 @@
 
 ## ✧ Core Association
 
-**Natural Sign:** [[Taurus]]
+**Natural Sign:** [[Definitions/Signs/Taurus]]
 **Classical Ruler:** [[Venus]]
 **Modern Ruler:** [[Venus]]
 **Elemental Affinity:** [[Earth]]

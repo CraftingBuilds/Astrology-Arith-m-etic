@@ -2,7 +2,7 @@
 
 ## ✧ Core Association
 
-**Natural Sign:** [[Cancer]]
+**Natural Sign:** [[Definitions/Signs/Cancer]]
 **Classical Ruler:** [[Moon]]
 **Modern Ruler:** [[Moon]]
 **Elemental Affinity:** Water

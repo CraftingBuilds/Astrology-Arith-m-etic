@@ -2,7 +2,7 @@
 
 ## ✧ Core Association
 
-**Natural Sign:** [[Gemini]]
+**Natural Sign:** [[Definitions/Signs/Gemini]]
 **Classical Ruler:** [[Mercury]]
 **Modern Ruler:** [[Mercury]]
 **Elemental Affinity:** Air
