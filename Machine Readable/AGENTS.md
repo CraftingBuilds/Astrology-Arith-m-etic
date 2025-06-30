@@ -1,8 +1,8 @@
 This repository's remote origin is:
-https://github.com/CraftingBuilds/Astrology-Arith-m-etic
+https://github.com/github.com/CratingBuilds/Astrology-Arith-m-etic
 
 To set the remote, run:
-`git remote add origin https://github.com/CraftingBuilds/Astrology-Arith-m-etic`
+`git remote add origin https://github.com/github.com/CratingBuilds/Astrology-Arith-m-etic`
 
 When pushing to origin, run: `git push origin main`
 
