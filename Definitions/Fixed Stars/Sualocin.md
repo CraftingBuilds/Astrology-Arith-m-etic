@@ -1,4 +1,4 @@
-# Alhena
+# Sualocin
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Sualocin [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Sualocin (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Sualocin:** 
+- **[[Moon]] conjunct Sualocin:** 
+- **[[Mercury]] conjunct Sualocin:** 
+- **[[Venus]] conjunct Sualocin:** 
+- **[[Mars]] conjunct Sualocin:** 
+- **[[Jupiter]] conjunct Sualocin:** 
+- **[[Saturn]] conjunct Sualocin:** 
+- **[[Uranus]] conjunct Sualocin:** 
+- **[[Neptune]] conjunct Sualocin:** 
+- **[[Pluto]] conjunct Sualocin:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

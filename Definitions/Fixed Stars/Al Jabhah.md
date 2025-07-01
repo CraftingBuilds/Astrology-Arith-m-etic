@@ -1,4 +1,4 @@
-# Alhena
+# Al Jabhah
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Al Jabhah [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Al Jabhah (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Al Jabhah:** 
+- **[[Moon]] conjunct Al Jabhah:** 
+- **[[Mercury]] conjunct Al Jabhah:** 
+- **[[Venus]] conjunct Al Jabhah:** 
+- **[[Mars]] conjunct Al Jabhah:** 
+- **[[Jupiter]] conjunct Al Jabhah:** 
+- **[[Saturn]] conjunct Al Jabhah:** 
+- **[[Uranus]] conjunct Al Jabhah:** 
+- **[[Neptune]] conjunct Al Jabhah:** 
+- **[[Pluto]] conjunct Al Jabhah:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

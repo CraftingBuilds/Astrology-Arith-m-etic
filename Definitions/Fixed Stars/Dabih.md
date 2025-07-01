@@ -1,4 +1,4 @@
-# Alhena
+# Dabih
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Dabih [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Dabih (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Dabih:** 
+- **[[Moon]] conjunct Dabih:** 
+- **[[Mercury]] conjunct Dabih:** 
+- **[[Venus]] conjunct Dabih:** 
+- **[[Mars]] conjunct Dabih:** 
+- **[[Jupiter]] conjunct Dabih:** 
+- **[[Saturn]] conjunct Dabih:** 
+- **[[Uranus]] conjunct Dabih:** 
+- **[[Neptune]] conjunct Dabih:** 
+- **[[Pluto]] conjunct Dabih:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

@@ -1,4 +1,4 @@
-# Alhena
+# Copula
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Copula [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Copula (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Copula:** 
+- **[[Moon]] conjunct Copula:** 
+- **[[Mercury]] conjunct Copula:** 
+- **[[Venus]] conjunct Copula:** 
+- **[[Mars]] conjunct Copula:** 
+- **[[Jupiter]] conjunct Copula:** 
+- **[[Saturn]] conjunct Copula:** 
+- **[[Uranus]] conjunct Copula:** 
+- **[[Neptune]] conjunct Copula:** 
+- **[[Pluto]] conjunct Copula:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

@@ -1,4 +1,4 @@
-# Alhena
+# Sargas
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Sargas [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Sargas (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Sargas:** 
+- **[[Moon]] conjunct Sargas:** 
+- **[[Mercury]] conjunct Sargas:** 
+- **[[Venus]] conjunct Sargas:** 
+- **[[Mars]] conjunct Sargas:** 
+- **[[Jupiter]] conjunct Sargas:** 
+- **[[Saturn]] conjunct Sargas:** 
+- **[[Uranus]] conjunct Sargas:** 
+- **[[Neptune]] conjunct Sargas:** 
+- **[[Pluto]] conjunct Sargas:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

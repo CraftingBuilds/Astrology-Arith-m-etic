@@ -1,4 +1,4 @@
-# Alhena
+# El Nath
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## El Nath [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + El Nath (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct El Nath:** 
+- **[[Moon]] conjunct El Nath:** 
+- **[[Mercury]] conjunct El Nath:** 
+- **[[Venus]] conjunct El Nath:** 
+- **[[Mars]] conjunct El Nath:** 
+- **[[Jupiter]] conjunct El Nath:** 
+- **[[Saturn]] conjunct El Nath:** 
+- **[[Uranus]] conjunct El Nath:** 
+- **[[Neptune]] conjunct El Nath:** 
+- **[[Pluto]] conjunct El Nath:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

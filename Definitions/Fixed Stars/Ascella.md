@@ -1,4 +1,4 @@
-# Alhena
+# Ascella
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Ascella [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Ascella (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Ascella:** 
+- **[[Moon]] conjunct Ascella:** 
+- **[[Mercury]] conjunct Ascella:** 
+- **[[Venus]] conjunct Ascella:** 
+- **[[Mars]] conjunct Ascella:** 
+- **[[Jupiter]] conjunct Ascella:** 
+- **[[Saturn]] conjunct Ascella:** 
+- **[[Uranus]] conjunct Ascella:** 
+- **[[Neptune]] conjunct Ascella:** 
+- **[[Pluto]] conjunct Ascella:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

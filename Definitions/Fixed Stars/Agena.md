@@ -1,4 +1,4 @@
-# Alhena
+# Agena
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Agena [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Agena (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Agena:** 
+- **[[Moon]] conjunct Agena:** 
+- **[[Mercury]] conjunct Agena:** 
+- **[[Venus]] conjunct Agena:** 
+- **[[Mars]] conjunct Agena:** 
+- **[[Jupiter]] conjunct Agena:** 
+- **[[Saturn]] conjunct Agena:** 
+- **[[Uranus]] conjunct Agena:** 
+- **[[Neptune]] conjunct Agena:** 
+- **[[Pluto]] conjunct Agena:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)
