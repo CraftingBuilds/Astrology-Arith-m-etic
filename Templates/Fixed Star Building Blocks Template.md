@@ -1,9 +1,14 @@
-# {{**Fixed Star Name — Traditional or Channeled Epithet (Greek Letter + Latin Genitive) **}}
-	“- Fixed Star Name: The common or traditional name
+# {{**Fixed Star Name — Traditional or Channeled Epithet (Greek Letter + Latin Genitive) **}} - Fixed Star Name: The common or traditional name
+Do not include this section 
+
+---
+Do not include this section, meant for computing
+
 	- Epithet: Poetic, Symbolic, or Channeled Title (e.g., The Proudly Marching One
 	- Greek Letter: Bayer Designation Greek Letter (e.g., γ)
 	- Latin Genitive: Genitive form of constellation’s Latin name (e.g., Geminorum)
-	→ The section in “” is not meant to be included”
+	→ The section in “#![text]!#” is not meant to be included
+---
 
 **Keywords:** (List of words that captjure the star’s core energies, traits, themes, archetypes, and metaphysical resonances )
 
