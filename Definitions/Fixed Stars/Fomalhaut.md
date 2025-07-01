@@ -1,4 +1,4 @@
-# Alhena
+# Fomalhaut
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Fomalhaut [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Fomalhaut (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Fomalhaut:** 
+- **[[Moon]] conjunct Fomalhaut:** 
+- **[[Mercury]] conjunct Fomalhaut:** 
+- **[[Venus]] conjunct Fomalhaut:** 
+- **[[Mars]] conjunct Fomalhaut:** 
+- **[[Jupiter]] conjunct Fomalhaut:** 
+- **[[Saturn]] conjunct Fomalhaut:** 
+- **[[Uranus]] conjunct Fomalhaut:** 
+- **[[Neptune]] conjunct Fomalhaut:** 
+- **[[Pluto]] conjunct Fomalhaut:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

@@ -1,4 +1,4 @@
-# Alhena
+# Acubens
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Acubens [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Acubens (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Acubens:** 
+- **[[Moon]] conjunct Acubens:** 
+- **[[Mercury]] conjunct Acubens:** 
+- **[[Venus]] conjunct Acubens:** 
+- **[[Mars]] conjunct Acubens:** 
+- **[[Jupiter]] conjunct Acubens:** 
+- **[[Saturn]] conjunct Acubens:** 
+- **[[Uranus]] conjunct Acubens:** 
+- **[[Neptune]] conjunct Acubens:** 
+- **[[Pluto]] conjunct Acubens:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

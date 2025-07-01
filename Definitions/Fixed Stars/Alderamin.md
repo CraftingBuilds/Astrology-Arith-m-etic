@@ -1,4 +1,4 @@
-# Alhena
+# Alderamin
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Alderamin [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Alderamin (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Alderamin:** 
+- **[[Moon]] conjunct Alderamin:** 
+- **[[Mercury]] conjunct Alderamin:** 
+- **[[Venus]] conjunct Alderamin:** 
+- **[[Mars]] conjunct Alderamin:** 
+- **[[Jupiter]] conjunct Alderamin:** 
+- **[[Saturn]] conjunct Alderamin:** 
+- **[[Uranus]] conjunct Alderamin:** 
+- **[[Neptune]] conjunct Alderamin:** 
+- **[[Pluto]] conjunct Alderamin:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

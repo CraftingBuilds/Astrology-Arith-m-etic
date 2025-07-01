@@ -1,4 +1,4 @@
-# Alhena
+# Alkes
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Alkes [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Alkes (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Alkes:** 
+- **[[Moon]] conjunct Alkes:** 
+- **[[Mercury]] conjunct Alkes:** 
+- **[[Venus]] conjunct Alkes:** 
+- **[[Mars]] conjunct Alkes:** 
+- **[[Jupiter]] conjunct Alkes:** 
+- **[[Saturn]] conjunct Alkes:** 
+- **[[Uranus]] conjunct Alkes:** 
+- **[[Neptune]] conjunct Alkes:** 
+- **[[Pluto]] conjunct Alkes:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

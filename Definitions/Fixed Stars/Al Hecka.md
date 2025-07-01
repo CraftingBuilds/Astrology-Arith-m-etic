@@ -1,4 +1,4 @@
-# Alhena
+# Al Hecka
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Al Hecka [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Al Hecka (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Al Hecka:** 
+- **[[Moon]] conjunct Al Hecka:** 
+- **[[Mercury]] conjunct Al Hecka:** 
+- **[[Venus]] conjunct Al Hecka:** 
+- **[[Mars]] conjunct Al Hecka:** 
+- **[[Jupiter]] conjunct Al Hecka:** 
+- **[[Saturn]] conjunct Al Hecka:** 
+- **[[Uranus]] conjunct Al Hecka:** 
+- **[[Neptune]] conjunct Al Hecka:** 
+- **[[Pluto]] conjunct Al Hecka:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

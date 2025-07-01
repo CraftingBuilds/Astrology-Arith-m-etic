@@ -1,4 +1,4 @@
-# Alhena
+# Acumen
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Acumen [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Acumen (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Acumen:** 
+- **[[Moon]] conjunct Acumen:** 
+- **[[Mercury]] conjunct Acumen:** 
+- **[[Venus]] conjunct Acumen:** 
+- **[[Mars]] conjunct Acumen:** 
+- **[[Jupiter]] conjunct Acumen:** 
+- **[[Saturn]] conjunct Acumen:** 
+- **[[Uranus]] conjunct Acumen:** 
+- **[[Neptune]] conjunct Acumen:** 
+- **[[Pluto]] conjunct Acumen:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

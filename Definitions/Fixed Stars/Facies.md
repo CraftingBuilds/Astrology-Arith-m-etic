@@ -1,4 +1,4 @@
-# Alhena
+# Facies
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Facies [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Facies (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Facies:** 
+- **[[Moon]] conjunct Facies:** 
+- **[[Mercury]] conjunct Facies:** 
+- **[[Venus]] conjunct Facies:** 
+- **[[Mars]] conjunct Facies:** 
+- **[[Jupiter]] conjunct Facies:** 
+- **[[Saturn]] conjunct Facies:** 
+- **[[Uranus]] conjunct Facies:** 
+- **[[Neptune]] conjunct Facies:** 
+- **[[Pluto]] conjunct Facies:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

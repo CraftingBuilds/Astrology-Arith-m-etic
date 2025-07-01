@@ -1,4 +1,4 @@
-# Alhena
+# Praesepe
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Praesepe [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Praesepe (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Praesepe:** 
+- **[[Moon]] conjunct Praesepe:** 
+- **[[Mercury]] conjunct Praesepe:** 
+- **[[Venus]] conjunct Praesepe:** 
+- **[[Mars]] conjunct Praesepe:** 
+- **[[Jupiter]] conjunct Praesepe:** 
+- **[[Saturn]] conjunct Praesepe:** 
+- **[[Uranus]] conjunct Praesepe:** 
+- **[[Neptune]] conjunct Praesepe:** 
+- **[[Pluto]] conjunct Praesepe:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

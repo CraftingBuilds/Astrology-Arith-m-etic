@@ -1,4 +1,4 @@
-# Alhena
+# Yed Prior
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Yed Prior [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Yed Prior (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Yed Prior:** 
+- **[[Moon]] conjunct Yed Prior:** 
+- **[[Mercury]] conjunct Yed Prior:** 
+- **[[Venus]] conjunct Yed Prior:** 
+- **[[Mars]] conjunct Yed Prior:** 
+- **[[Jupiter]] conjunct Yed Prior:** 
+- **[[Saturn]] conjunct Yed Prior:** 
+- **[[Uranus]] conjunct Yed Prior:** 
+- **[[Neptune]] conjunct Yed Prior:** 
+- **[[Pluto]] conjunct Yed Prior:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

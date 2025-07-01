@@ -1,4 +1,4 @@
-# Alhena
+# Mirzam
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Mirzam [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Mirzam (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Mirzam:** 
+- **[[Moon]] conjunct Mirzam:** 
+- **[[Mercury]] conjunct Mirzam:** 
+- **[[Venus]] conjunct Mirzam:** 
+- **[[Mars]] conjunct Mirzam:** 
+- **[[Jupiter]] conjunct Mirzam:** 
+- **[[Saturn]] conjunct Mirzam:** 
+- **[[Uranus]] conjunct Mirzam:** 
+- **[[Neptune]] conjunct Mirzam:** 
+- **[[Pluto]] conjunct Mirzam:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

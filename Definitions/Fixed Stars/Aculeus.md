@@ -1,4 +1,4 @@
-# Alhena
+# Aculeus
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Aculeus [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Aculeus (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Aculeus:** 
+- **[[Moon]] conjunct Aculeus:** 
+- **[[Mercury]] conjunct Aculeus:** 
+- **[[Venus]] conjunct Aculeus:** 
+- **[[Mars]] conjunct Aculeus:** 
+- **[[Jupiter]] conjunct Aculeus:** 
+- **[[Saturn]] conjunct Aculeus:** 
+- **[[Uranus]] conjunct Aculeus:** 
+- **[[Neptune]] conjunct Aculeus:** 
+- **[[Pluto]] conjunct Aculeus:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

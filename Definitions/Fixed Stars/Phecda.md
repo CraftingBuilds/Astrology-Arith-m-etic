@@ -1,4 +1,4 @@
-# Alhena
+# Phecda
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Phecda [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Phecda (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Phecda:** 
+- **[[Moon]] conjunct Phecda:** 
+- **[[Mercury]] conjunct Phecda:** 
+- **[[Venus]] conjunct Phecda:** 
+- **[[Mars]] conjunct Phecda:** 
+- **[[Jupiter]] conjunct Phecda:** 
+- **[[Saturn]] conjunct Phecda:** 
+- **[[Uranus]] conjunct Phecda:** 
+- **[[Neptune]] conjunct Phecda:** 
+- **[[Pluto]] conjunct Phecda:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

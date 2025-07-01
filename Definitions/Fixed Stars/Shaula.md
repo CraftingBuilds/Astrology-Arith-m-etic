@@ -1,4 +1,4 @@
-# Alhena
+# Shaula
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Shaula [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Shaula (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Shaula:** 
+- **[[Moon]] conjunct Shaula:** 
+- **[[Mercury]] conjunct Shaula:** 
+- **[[Venus]] conjunct Shaula:** 
+- **[[Mars]] conjunct Shaula:** 
+- **[[Jupiter]] conjunct Shaula:** 
+- **[[Saturn]] conjunct Shaula:** 
+- **[[Uranus]] conjunct Shaula:** 
+- **[[Neptune]] conjunct Shaula:** 
+- **[[Pluto]] conjunct Shaula:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

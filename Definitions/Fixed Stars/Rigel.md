@@ -1,4 +1,4 @@
-# Alhena
+# Rigel
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Rigel [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Rigel (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Rigel:** 
+- **[[Moon]] conjunct Rigel:** 
+- **[[Mercury]] conjunct Rigel:** 
+- **[[Venus]] conjunct Rigel:** 
+- **[[Mars]] conjunct Rigel:** 
+- **[[Jupiter]] conjunct Rigel:** 
+- **[[Saturn]] conjunct Rigel:** 
+- **[[Uranus]] conjunct Rigel:** 
+- **[[Neptune]] conjunct Rigel:** 
+- **[[Pluto]] conjunct Rigel:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

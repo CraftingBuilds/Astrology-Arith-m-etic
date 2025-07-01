@@ -1,4 +1,4 @@
-# Alhena
+# Pollux
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Pollux [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Pollux (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Pollux:** 
+- **[[Moon]] conjunct Pollux:** 
+- **[[Mercury]] conjunct Pollux:** 
+- **[[Venus]] conjunct Pollux:** 
+- **[[Mars]] conjunct Pollux:** 
+- **[[Jupiter]] conjunct Pollux:** 
+- **[[Saturn]] conjunct Pollux:** 
+- **[[Uranus]] conjunct Pollux:** 
+- **[[Neptune]] conjunct Pollux:** 
+- **[[Pluto]] conjunct Pollux:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

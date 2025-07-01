@@ -1,4 +1,4 @@
-# Alhena
+# Mintaka
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Mintaka [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Mintaka (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Mintaka:** 
+- **[[Moon]] conjunct Mintaka:** 
+- **[[Mercury]] conjunct Mintaka:** 
+- **[[Venus]] conjunct Mintaka:** 
+- **[[Mars]] conjunct Mintaka:** 
+- **[[Jupiter]] conjunct Mintaka:** 
+- **[[Saturn]] conjunct Mintaka:** 
+- **[[Uranus]] conjunct Mintaka:** 
+- **[[Neptune]] conjunct Mintaka:** 
+- **[[Pluto]] conjunct Mintaka:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

@@ -1,4 +1,4 @@
-# Alhena
+# Sadalsuud
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Sadalsuud [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Sadalsuud (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Sadalsuud:** 
+- **[[Moon]] conjunct Sadalsuud:** 
+- **[[Mercury]] conjunct Sadalsuud:** 
+- **[[Venus]] conjunct Sadalsuud:** 
+- **[[Mars]] conjunct Sadalsuud:** 
+- **[[Jupiter]] conjunct Sadalsuud:** 
+- **[[Saturn]] conjunct Sadalsuud:** 
+- **[[Uranus]] conjunct Sadalsuud:** 
+- **[[Neptune]] conjunct Sadalsuud:** 
+- **[[Pluto]] conjunct Sadalsuud:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

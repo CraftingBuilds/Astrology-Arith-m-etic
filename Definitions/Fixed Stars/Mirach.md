@@ -1,4 +1,4 @@
-# Alhena
+# Mirach
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Mirach [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Mirach (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Mirach:** 
+- **[[Moon]] conjunct Mirach:** 
+- **[[Mercury]] conjunct Mirach:** 
+- **[[Venus]] conjunct Mirach:** 
+- **[[Mars]] conjunct Mirach:** 
+- **[[Jupiter]] conjunct Mirach:** 
+- **[[Saturn]] conjunct Mirach:** 
+- **[[Uranus]] conjunct Mirach:** 
+- **[[Neptune]] conjunct Mirach:** 
+- **[[Pluto]] conjunct Mirach:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

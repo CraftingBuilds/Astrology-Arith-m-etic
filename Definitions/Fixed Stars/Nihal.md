@@ -1,4 +1,4 @@
-# Alhena
+# Nihal
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Nihal [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Nihal (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Nihal:** 
+- **[[Moon]] conjunct Nihal:** 
+- **[[Mercury]] conjunct Nihal:** 
+- **[[Venus]] conjunct Nihal:** 
+- **[[Mars]] conjunct Nihal:** 
+- **[[Jupiter]] conjunct Nihal:** 
+- **[[Saturn]] conjunct Nihal:** 
+- **[[Uranus]] conjunct Nihal:** 
+- **[[Neptune]] conjunct Nihal:** 
+- **[[Pluto]] conjunct Nihal:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

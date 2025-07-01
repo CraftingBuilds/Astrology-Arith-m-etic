@@ -1,4 +1,4 @@
-# Alhena
+# Procyon
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Procyon [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Procyon (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Procyon:** 
+- **[[Moon]] conjunct Procyon:** 
+- **[[Mercury]] conjunct Procyon:** 
+- **[[Venus]] conjunct Procyon:** 
+- **[[Mars]] conjunct Procyon:** 
+- **[[Jupiter]] conjunct Procyon:** 
+- **[[Saturn]] conjunct Procyon:** 
+- **[[Uranus]] conjunct Procyon:** 
+- **[[Neptune]] conjunct Procyon:** 
+- **[[Pluto]] conjunct Procyon:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

@@ -1,4 +1,4 @@
-# Alhena
+# Canopus
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Canopus [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Canopus (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Canopus:** 
+- **[[Moon]] conjunct Canopus:** 
+- **[[Mercury]] conjunct Canopus:** 
+- **[[Venus]] conjunct Canopus:** 
+- **[[Mars]] conjunct Canopus:** 
+- **[[Jupiter]] conjunct Canopus:** 
+- **[[Saturn]] conjunct Canopus:** 
+- **[[Uranus]] conjunct Canopus:** 
+- **[[Neptune]] conjunct Canopus:** 
+- **[[Pluto]] conjunct Canopus:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

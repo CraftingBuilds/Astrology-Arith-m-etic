@@ -1,4 +1,4 @@
-# Alhena
+# Alphard
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Alphard [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Alphard (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Alphard:** 
+- **[[Moon]] conjunct Alphard:** 
+- **[[Mercury]] conjunct Alphard:** 
+- **[[Venus]] conjunct Alphard:** 
+- **[[Mars]] conjunct Alphard:** 
+- **[[Jupiter]] conjunct Alphard:** 
+- **[[Saturn]] conjunct Alphard:** 
+- **[[Uranus]] conjunct Alphard:** 
+- **[[Neptune]] conjunct Alphard:** 
+- **[[Pluto]] conjunct Alphard:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

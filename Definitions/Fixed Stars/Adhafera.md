@@ -1,4 +1,4 @@
-# Alhena
+# Adhafera
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Adhafera [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Adhafera (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Adhafera:** 
+- **[[Moon]] conjunct Adhafera:** 
+- **[[Mercury]] conjunct Adhafera:** 
+- **[[Venus]] conjunct Adhafera:** 
+- **[[Mars]] conjunct Adhafera:** 
+- **[[Jupiter]] conjunct Adhafera:** 
+- **[[Saturn]] conjunct Adhafera:** 
+- **[[Uranus]] conjunct Adhafera:** 
+- **[[Neptune]] conjunct Adhafera:** 
+- **[[Pluto]] conjunct Adhafera:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

@@ -1,4 +1,4 @@
-# Alhena
+# Alphecca
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Alphecca [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Alphecca (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Alphecca:** 
+- **[[Moon]] conjunct Alphecca:** 
+- **[[Mercury]] conjunct Alphecca:** 
+- **[[Venus]] conjunct Alphecca:** 
+- **[[Mars]] conjunct Alphecca:** 
+- **[[Jupiter]] conjunct Alphecca:** 
+- **[[Saturn]] conjunct Alphecca:** 
+- **[[Uranus]] conjunct Alphecca:** 
+- **[[Neptune]] conjunct Alphecca:** 
+- **[[Pluto]] conjunct Alphecca:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

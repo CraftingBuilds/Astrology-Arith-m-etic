@@ -1,4 +1,4 @@
-# Alhena
+# Vega
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Vega [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Vega (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Vega:** 
+- **[[Moon]] conjunct Vega:** 
+- **[[Mercury]] conjunct Vega:** 
+- **[[Venus]] conjunct Vega:** 
+- **[[Mars]] conjunct Vega:** 
+- **[[Jupiter]] conjunct Vega:** 
+- **[[Saturn]] conjunct Vega:** 
+- **[[Uranus]] conjunct Vega:** 
+- **[[Neptune]] conjunct Vega:** 
+- **[[Pluto]] conjunct Vega:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

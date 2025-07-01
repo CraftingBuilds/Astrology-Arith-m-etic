@@ -1,4 +1,4 @@
-# Alhena
+# Sheliak
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Sheliak [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Sheliak (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Sheliak:** 
+- **[[Moon]] conjunct Sheliak:** 
+- **[[Mercury]] conjunct Sheliak:** 
+- **[[Venus]] conjunct Sheliak:** 
+- **[[Mars]] conjunct Sheliak:** 
+- **[[Jupiter]] conjunct Sheliak:** 
+- **[[Saturn]] conjunct Sheliak:** 
+- **[[Uranus]] conjunct Sheliak:** 
+- **[[Neptune]] conjunct Sheliak:** 
+- **[[Pluto]] conjunct Sheliak:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

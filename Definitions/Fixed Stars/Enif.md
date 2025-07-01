@@ -1,4 +1,4 @@
-# Alhena
+# Enif
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Enif [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Enif (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Enif:** 
+- **[[Moon]] conjunct Enif:** 
+- **[[Mercury]] conjunct Enif:** 
+- **[[Venus]] conjunct Enif:** 
+- **[[Mars]] conjunct Enif:** 
+- **[[Jupiter]] conjunct Enif:** 
+- **[[Saturn]] conjunct Enif:** 
+- **[[Uranus]] conjunct Enif:** 
+- **[[Neptune]] conjunct Enif:** 
+- **[[Pluto]] conjunct Enif:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

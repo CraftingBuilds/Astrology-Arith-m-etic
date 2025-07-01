@@ -1,4 +1,4 @@
-# Alhena
+# Algorab
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Algorab [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Algorab (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Algorab:** 
+- **[[Moon]] conjunct Algorab:** 
+- **[[Mercury]] conjunct Algorab:** 
+- **[[Venus]] conjunct Algorab:** 
+- **[[Mars]] conjunct Algorab:** 
+- **[[Jupiter]] conjunct Algorab:** 
+- **[[Saturn]] conjunct Algorab:** 
+- **[[Uranus]] conjunct Algorab:** 
+- **[[Neptune]] conjunct Algorab:** 
+- **[[Pluto]] conjunct Algorab:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)
