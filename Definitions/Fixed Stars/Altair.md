@@ -1,4 +1,4 @@
-# Alhena
+# Altair
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Altair [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Altair (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Altair:** 
+- **[[Moon]] conjunct Altair:** 
+- **[[Mercury]] conjunct Altair:** 
+- **[[Venus]] conjunct Altair:** 
+- **[[Mars]] conjunct Altair:** 
+- **[[Jupiter]] conjunct Altair:** 
+- **[[Saturn]] conjunct Altair:** 
+- **[[Uranus]] conjunct Altair:** 
+- **[[Neptune]] conjunct Altair:** 
+- **[[Pluto]] conjunct Altair:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

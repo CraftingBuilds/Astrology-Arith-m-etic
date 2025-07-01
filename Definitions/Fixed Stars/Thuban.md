@@ -1,4 +1,4 @@
-# Alhena
+# Thuban
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Thuban [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Thuban (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Thuban:** 
+- **[[Moon]] conjunct Thuban:** 
+- **[[Mercury]] conjunct Thuban:** 
+- **[[Venus]] conjunct Thuban:** 
+- **[[Mars]] conjunct Thuban:** 
+- **[[Jupiter]] conjunct Thuban:** 
+- **[[Saturn]] conjunct Thuban:** 
+- **[[Uranus]] conjunct Thuban:** 
+- **[[Neptune]] conjunct Thuban:** 
+- **[[Pluto]] conjunct Thuban:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

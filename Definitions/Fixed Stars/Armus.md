@@ -1,4 +1,4 @@
-# Alhena
+# Armus
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Armus [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Armus (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Armus:** 
+- **[[Moon]] conjunct Armus:** 
+- **[[Mercury]] conjunct Armus:** 
+- **[[Venus]] conjunct Armus:** 
+- **[[Mars]] conjunct Armus:** 
+- **[[Jupiter]] conjunct Armus:** 
+- **[[Saturn]] conjunct Armus:** 
+- **[[Uranus]] conjunct Armus:** 
+- **[[Neptune]] conjunct Armus:** 
+- **[[Pluto]] conjunct Armus:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

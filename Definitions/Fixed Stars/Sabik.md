@@ -1,4 +1,4 @@
-# Alhena
+# Sabik
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Sabik [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Sabik (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Sabik:** 
+- **[[Moon]] conjunct Sabik:** 
+- **[[Mercury]] conjunct Sabik:** 
+- **[[Venus]] conjunct Sabik:** 
+- **[[Mars]] conjunct Sabik:** 
+- **[[Jupiter]] conjunct Sabik:** 
+- **[[Saturn]] conjunct Sabik:** 
+- **[[Uranus]] conjunct Sabik:** 
+- **[[Neptune]] conjunct Sabik:** 
+- **[[Pluto]] conjunct Sabik:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

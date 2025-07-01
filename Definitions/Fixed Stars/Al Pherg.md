@@ -1,4 +1,4 @@
-# Alhena
+# Al Pherg
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Al Pherg [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Al Pherg (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Al Pherg:** 
+- **[[Moon]] conjunct Al Pherg:** 
+- **[[Mercury]] conjunct Al Pherg:** 
+- **[[Venus]] conjunct Al Pherg:** 
+- **[[Mars]] conjunct Al Pherg:** 
+- **[[Jupiter]] conjunct Al Pherg:** 
+- **[[Saturn]] conjunct Al Pherg:** 
+- **[[Uranus]] conjunct Al Pherg:** 
+- **[[Neptune]] conjunct Al Pherg:** 
+- **[[Pluto]] conjunct Al Pherg:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

@@ -1,4 +1,4 @@
-# Alhena
+# Alnilam
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Alnilam [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Alnilam (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Alnilam:** 
+- **[[Moon]] conjunct Alnilam:** 
+- **[[Mercury]] conjunct Alnilam:** 
+- **[[Venus]] conjunct Alnilam:** 
+- **[[Mars]] conjunct Alnilam:** 
+- **[[Jupiter]] conjunct Alnilam:** 
+- **[[Saturn]] conjunct Alnilam:** 
+- **[[Uranus]] conjunct Alnilam:** 
+- **[[Neptune]] conjunct Alnilam:** 
+- **[[Pluto]] conjunct Alnilam:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

@@ -1,4 +1,4 @@
-# Alhena
+# Alkaid
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Alkaid [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Alkaid (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Alkaid:** 
+- **[[Moon]] conjunct Alkaid:** 
+- **[[Mercury]] conjunct Alkaid:** 
+- **[[Venus]] conjunct Alkaid:** 
+- **[[Mars]] conjunct Alkaid:** 
+- **[[Jupiter]] conjunct Alkaid:** 
+- **[[Saturn]] conjunct Alkaid:** 
+- **[[Uranus]] conjunct Alkaid:** 
+- **[[Neptune]] conjunct Alkaid:** 
+- **[[Pluto]] conjunct Alkaid:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

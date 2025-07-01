@@ -1,4 +1,4 @@
-# Alhena
+# Zosma
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Zosma [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Zosma (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Zosma:** 
+- **[[Moon]] conjunct Zosma:** 
+- **[[Mercury]] conjunct Zosma:** 
+- **[[Venus]] conjunct Zosma:** 
+- **[[Mars]] conjunct Zosma:** 
+- **[[Jupiter]] conjunct Zosma:** 
+- **[[Saturn]] conjunct Zosma:** 
+- **[[Uranus]] conjunct Zosma:** 
+- **[[Neptune]] conjunct Zosma:** 
+- **[[Pluto]] conjunct Zosma:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

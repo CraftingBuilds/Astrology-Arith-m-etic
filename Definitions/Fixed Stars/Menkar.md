@@ -1,4 +1,4 @@
-# Alhena
+# Menkar
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Menkar [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Menkar (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Menkar:** 
+- **[[Moon]] conjunct Menkar:** 
+- **[[Mercury]] conjunct Menkar:** 
+- **[[Venus]] conjunct Menkar:** 
+- **[[Mars]] conjunct Menkar:** 
+- **[[Jupiter]] conjunct Menkar:** 
+- **[[Saturn]] conjunct Menkar:** 
+- **[[Uranus]] conjunct Menkar:** 
+- **[[Neptune]] conjunct Menkar:** 
+- **[[Pluto]] conjunct Menkar:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

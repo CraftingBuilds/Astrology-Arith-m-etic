@@ -1,4 +1,4 @@
-# Alhena
+# Bungula
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Bungula [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Bungula (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Bungula:** 
+- **[[Moon]] conjunct Bungula:** 
+- **[[Mercury]] conjunct Bungula:** 
+- **[[Venus]] conjunct Bungula:** 
+- **[[Mars]] conjunct Bungula:** 
+- **[[Jupiter]] conjunct Bungula:** 
+- **[[Saturn]] conjunct Bungula:** 
+- **[[Uranus]] conjunct Bungula:** 
+- **[[Neptune]] conjunct Bungula:** 
+- **[[Pluto]] conjunct Bungula:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

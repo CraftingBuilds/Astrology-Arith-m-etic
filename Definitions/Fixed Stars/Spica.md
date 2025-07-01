@@ -1,4 +1,4 @@
-# Alhena
+# Spica
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Spica [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Spica (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Spica:** 
+- **[[Moon]] conjunct Spica:** 
+- **[[Mercury]] conjunct Spica:** 
+- **[[Venus]] conjunct Spica:** 
+- **[[Mars]] conjunct Spica:** 
+- **[[Jupiter]] conjunct Spica:** 
+- **[[Saturn]] conjunct Spica:** 
+- **[[Uranus]] conjunct Spica:** 
+- **[[Neptune]] conjunct Spica:** 
+- **[[Pluto]] conjunct Spica:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

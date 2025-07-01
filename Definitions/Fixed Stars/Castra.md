@@ -1,4 +1,4 @@
-# Alhena
+# Castra
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Castra [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Castra (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Castra:** 
+- **[[Moon]] conjunct Castra:** 
+- **[[Mercury]] conjunct Castra:** 
+- **[[Venus]] conjunct Castra:** 
+- **[[Mars]] conjunct Castra:** 
+- **[[Jupiter]] conjunct Castra:** 
+- **[[Saturn]] conjunct Castra:** 
+- **[[Uranus]] conjunct Castra:** 
+- **[[Neptune]] conjunct Castra:** 
+- **[[Pluto]] conjunct Castra:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

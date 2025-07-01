@@ -1,4 +1,4 @@
-# Alhena
+# Mirfak
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Mirfak [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Mirfak (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Mirfak:** 
+- **[[Moon]] conjunct Mirfak:** 
+- **[[Mercury]] conjunct Mirfak:** 
+- **[[Venus]] conjunct Mirfak:** 
+- **[[Mars]] conjunct Mirfak:** 
+- **[[Jupiter]] conjunct Mirfak:** 
+- **[[Saturn]] conjunct Mirfak:** 
+- **[[Uranus]] conjunct Mirfak:** 
+- **[[Neptune]] conjunct Mirfak:** 
+- **[[Pluto]] conjunct Mirfak:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

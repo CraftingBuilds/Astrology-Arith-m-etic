@@ -1,4 +1,4 @@
-# Alhena
+# Markab
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Markab [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Markab (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Markab:** 
+- **[[Moon]] conjunct Markab:** 
+- **[[Mercury]] conjunct Markab:** 
+- **[[Venus]] conjunct Markab:** 
+- **[[Mars]] conjunct Markab:** 
+- **[[Jupiter]] conjunct Markab:** 
+- **[[Saturn]] conjunct Markab:** 
+- **[[Uranus]] conjunct Markab:** 
+- **[[Neptune]] conjunct Markab:** 
+- **[[Pluto]] conjunct Markab:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

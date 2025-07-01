@@ -1,4 +1,4 @@
-# Alhena
+# Albireo
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Albireo [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Albireo (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Albireo:** 
+- **[[Moon]] conjunct Albireo:** 
+- **[[Mercury]] conjunct Albireo:** 
+- **[[Venus]] conjunct Albireo:** 
+- **[[Mars]] conjunct Albireo:** 
+- **[[Jupiter]] conjunct Albireo:** 
+- **[[Saturn]] conjunct Albireo:** 
+- **[[Uranus]] conjunct Albireo:** 
+- **[[Neptune]] conjunct Albireo:** 
+- **[[Pluto]] conjunct Albireo:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

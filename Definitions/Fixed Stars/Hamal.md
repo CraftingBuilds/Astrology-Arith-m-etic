@@ -1,4 +1,4 @@
-# Alhena
+# Hamal
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Hamal [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Hamal (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Hamal:** 
+- **[[Moon]] conjunct Hamal:** 
+- **[[Mercury]] conjunct Hamal:** 
+- **[[Venus]] conjunct Hamal:** 
+- **[[Mars]] conjunct Hamal:** 
+- **[[Jupiter]] conjunct Hamal:** 
+- **[[Saturn]] conjunct Hamal:** 
+- **[[Uranus]] conjunct Hamal:** 
+- **[[Neptune]] conjunct Hamal:** 
+- **[[Pluto]] conjunct Hamal:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

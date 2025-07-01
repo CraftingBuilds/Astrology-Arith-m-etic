@@ -1,4 +1,4 @@
-# Alhena
+# Algenib
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Algenib [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Algenib (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Algenib:** 
+- **[[Moon]] conjunct Algenib:** 
+- **[[Mercury]] conjunct Algenib:** 
+- **[[Venus]] conjunct Algenib:** 
+- **[[Mars]] conjunct Algenib:** 
+- **[[Jupiter]] conjunct Algenib:** 
+- **[[Saturn]] conjunct Algenib:** 
+- **[[Uranus]] conjunct Algenib:** 
+- **[[Neptune]] conjunct Algenib:** 
+- **[[Pluto]] conjunct Algenib:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

@@ -1,4 +1,4 @@
-# Alhena
+# Tarazed
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Tarazed [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Tarazed (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Tarazed:** 
+- **[[Moon]] conjunct Tarazed:** 
+- **[[Mercury]] conjunct Tarazed:** 
+- **[[Venus]] conjunct Tarazed:** 
+- **[[Mars]] conjunct Tarazed:** 
+- **[[Jupiter]] conjunct Tarazed:** 
+- **[[Saturn]] conjunct Tarazed:** 
+- **[[Uranus]] conjunct Tarazed:** 
+- **[[Neptune]] conjunct Tarazed:** 
+- **[[Pluto]] conjunct Tarazed:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

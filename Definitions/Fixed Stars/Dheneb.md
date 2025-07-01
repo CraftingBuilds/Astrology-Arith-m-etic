@@ -1,4 +1,4 @@
-# Alhena
+# Dheneb
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Dheneb [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Dheneb (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Dheneb:** 
+- **[[Moon]] conjunct Dheneb:** 
+- **[[Mercury]] conjunct Dheneb:** 
+- **[[Venus]] conjunct Dheneb:** 
+- **[[Mars]] conjunct Dheneb:** 
+- **[[Jupiter]] conjunct Dheneb:** 
+- **[[Saturn]] conjunct Dheneb:** 
+- **[[Uranus]] conjunct Dheneb:** 
+- **[[Neptune]] conjunct Dheneb:** 
+- **[[Pluto]] conjunct Dheneb:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)

@@ -1,4 +1,4 @@
-# Alhena
+# Wasat
 
 Back to [[Fixed Stars Time Nomad]]
 
@@ -13,24 +13,24 @@ Back to [[Fixed Stars Time Nomad]]
 ## Shadow Expression:
 - 
 
-## Alhena [[Conjunction]]:
+## Wasat [[Conjunction]]:
 
-**Planetary Body + Alhena (≤1° orb)**
+**Planetary Body + Wasat (≤1° orb)**
 
 **Description:**
 (TBD)
 
 **Examples:**
-- **[[Sun]] conjunct Alhena:** 
-- **[[Moon]] conjunct Alhena:** 
-- **[[Mercury]] conjunct Alhena:** 
-- **[[Venus]] conjunct Alhena:** 
-- **[[Mars]] conjunct Alhena:** 
-- **[[Jupiter]] conjunct Alhena:** 
-- **[[Saturn]] conjunct Alhena:** 
-- **[[Uranus]] conjunct Alhena:** 
-- **[[Neptune]] conjunct Alhena:** 
-- **[[Pluto]] conjunct Alhena:** 
+- **[[Sun]] conjunct Wasat:** 
+- **[[Moon]] conjunct Wasat:** 
+- **[[Mercury]] conjunct Wasat:** 
+- **[[Venus]] conjunct Wasat:** 
+- **[[Mars]] conjunct Wasat:** 
+- **[[Jupiter]] conjunct Wasat:** 
+- **[[Saturn]] conjunct Wasat:** 
+- **[[Uranus]] conjunct Wasat:** 
+- **[[Neptune]] conjunct Wasat:** 
+- **[[Pluto]] conjunct Wasat:** 
 
 ## Metaphysical/Esoteric Layer:
 (TBD)
