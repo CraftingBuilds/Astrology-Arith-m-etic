@@ -53,4 +53,5 @@ Vega is seen by some as a gateway to higher harmonies. Meditation with this star
 
 > "My talents shine brightly, inspiring beauty and wonder in the world."
 
+
 #astrology #AstrologyArithetic #FixedStars #Definitions

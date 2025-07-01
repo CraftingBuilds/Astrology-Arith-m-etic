@@ -38,6 +38,7 @@ When planets align with Hamal, they gain a fiery push for independence. This sta
 ## Metaphysical/Esoteric Layer:
 Hamal embodies the raw impulse that initiates a journey. Meditating on this star can awaken courage and momentum while also teaching restraint to avoid reckless choices.
 
+
 ## Ritual Application
 *Not a ritual for the star — a list of working types where this star lends support.*
 

@@ -53,4 +53,5 @@ Procyon offers a bridge between mundane and spiritual realms, often acting as a 
 
 > "I act swiftly and wisely, guided by loyal intuition."
 
+
 #astrology #AstrologyArithetic #FixedStars #Definitions

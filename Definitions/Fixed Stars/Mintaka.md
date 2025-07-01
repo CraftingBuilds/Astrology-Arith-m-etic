@@ -42,6 +42,7 @@ Mintaka serves as a cosmic compass. In meditations, it highlights the higher roa
 *Not a ritual for the star — a list of working types where this star lends support.*
 
 **Ideal for:**
+
 - Journeywork, vision quests, or travel spells
 - Setting long-term goals and milestones
 **Not suited for:**
@@ -52,5 +53,6 @@ Mintaka serves as a cosmic compass. In meditations, it highlights the higher roa
 ## Affirmation:
 
 > "My path is illuminated, and I follow it with unwavering resolve."
+
 
 #astrology #AstrologyArithetic #FixedStars #Definitions

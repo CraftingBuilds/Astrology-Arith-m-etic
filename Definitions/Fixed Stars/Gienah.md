@@ -2,6 +2,7 @@
 
 Back to [[Fixed Stars Time Nomad]]
 
+
 **Keywords:** Subtle perception, opportunistic wit, graceful navigation, corvid insight
 
 ## General Meaning:

@@ -53,4 +53,5 @@ Pollux carries heroic vibrations and serves as a guardian star. Working with it 
 
 > "My spirit stands firm; I defend my purpose with courage and skill."
 
+
 #astrology #AstrologyArithetic #FixedStars #Definitions

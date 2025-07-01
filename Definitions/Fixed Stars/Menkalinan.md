@@ -21,6 +21,7 @@ Menkalinan (Beta Aurigae) sits on the shoulder of the Charioteer. It has been no
 **Planetary Body + Menkalinan (≤1° orb)**
 
 **Description:**
+
 A planet conjunct Menkalinan gains an aura of respect but may also face unexpected reversals. Careful attention to detail ensures the best outcome.
 
 **Examples:**
@@ -52,5 +53,6 @@ Menkalinan carries the lesson of mindful movement—like a charioteer controllin
 ## Affirmation:
 
 > "I steer my course with balance, ready for any turn of fate."
+
 
 #astrology #AstrologyArithetic #FixedStars #Definitions

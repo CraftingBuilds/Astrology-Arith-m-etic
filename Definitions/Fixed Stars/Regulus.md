@@ -62,3 +62,5 @@ Magical Correspondences:
 	•	Courage & Empowerment Rituals
 	•	Crown Chakra & Sovereignty Activations
 	•	Talismans for Leadership & Protection
+	
+#NeedsUpdate	

@@ -53,4 +53,5 @@ This star can be invoked to balance karmic debts. It reminds practitioners that 
 
 > "I walk the path of fairness, correcting imbalance with courage and care."
 
+
 #astrology #AstrologyArithetic #FixedStars #Definitions
