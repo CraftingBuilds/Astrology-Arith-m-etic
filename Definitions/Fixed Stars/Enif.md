@@ -55,4 +55,5 @@ Meditating on Enif centers the mind and clarifies one’s path forward. It promo
 
 > "My calm focus lights the way through uncertainty."
 
+
 #astrology #AstrologyArithetic #FixedStars #Definitions
