@@ -1,6 +1,5 @@
 # Fomalhaut
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Sacred Vision, Guardian of the South, Mystical Aspirations, Prophetic Dreaming
 
@@ -53,4 +52,3 @@ Fomalhaut is a gateway to prophetic dreaming and deep spiritual yearning. Medita
 
 > "My visions guide me toward true purpose, and my heart remains sincere."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

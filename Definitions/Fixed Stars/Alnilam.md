@@ -1,6 +1,5 @@
 # Alnilam
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** central strength, enduring vision, radiance, unyielding will
 
@@ -65,4 +64,3 @@ lends support.*
 
 > "My inner light endures, guiding me steadily toward my purpose."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

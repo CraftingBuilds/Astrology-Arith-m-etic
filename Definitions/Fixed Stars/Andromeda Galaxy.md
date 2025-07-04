@@ -1,6 +1,5 @@
 # Andromeda Galaxy
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** vast perspective, cosmic union, expanding horizons
 
@@ -71,4 +70,3 @@ a soul level.
 
 > "My vision reaches across the stars to a greater whole."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

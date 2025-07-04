@@ -1,6 +1,5 @@
 # Acrux
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Southern Guidance, Crossroads Wisdom, Devotion, Focused Faith
 
@@ -53,4 +52,3 @@ Acrux carries the resonance of a holy crossroad, where the soul recommits to its
 
 > "My path is illuminated by faithful purpose. I walk with steady heart."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

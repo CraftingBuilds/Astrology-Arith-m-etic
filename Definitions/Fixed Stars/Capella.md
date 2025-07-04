@@ -42,4 +42,3 @@ A planet conjunct [[Capella]] is filtered through the lens of swift intelligence
 
 > “I think fast, move free, and learn through light.  My curiosity is sacred, my mind is magic.”
 
-#AstrologyArithetic #astrology #FixedStars #Definitions 

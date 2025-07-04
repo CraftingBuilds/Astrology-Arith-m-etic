@@ -1,6 +1,5 @@
 # Menkent
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** steady support, practical wisdom, mentoring spirit, grounded strength
 
@@ -53,4 +52,3 @@ Meditation with Menkent invites a grounded connection to the wisdom of the Centa
 
 > "Through humble service, I build lasting strength."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

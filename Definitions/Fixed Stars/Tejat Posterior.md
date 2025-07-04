@@ -1,6 +1,5 @@
 # Tejat Posterior
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** final push, hidden strength, persistence, decisive end
 
@@ -53,4 +52,3 @@ Meditating on Tejat Posterior reinforces steadfastness during the last mile of a
 
 > "My resolve carries me across the finish line with strength and grace."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

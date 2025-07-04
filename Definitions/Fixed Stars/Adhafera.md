@@ -1,6 +1,5 @@
 # Adhafera
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Majestic Mane, Pride, Noble Bearing, Courageous Heart
 
@@ -53,4 +52,3 @@ Adhafera resonates with the archetype of the Solar King or Queen. Working with t
 
 > "I carry my crown with courage and compassion."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

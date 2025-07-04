@@ -1,6 +1,5 @@
 # Baten Kaitos
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** cautious navigation, endurance, subtle undercurrents
 
@@ -69,4 +68,3 @@ and teaches perseverance in the face of uncertainty.
 
 > "Steadily I navigate even the roughest waters."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

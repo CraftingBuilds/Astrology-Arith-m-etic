@@ -1,10 +1,3 @@
----
-tags:
-  - astrology
-  - AstrologyArithetic
-  - Definitions
-  - FixedStars
----
 # Sirius – The Sacred Flame (α Canis Majoris)
 	
 **Keywords:** Divine Communication, Spiritual Rebirth, Celestial Knowledge, Ascension, Sacred Fire, Starseed Legacy, Resurrection Magic

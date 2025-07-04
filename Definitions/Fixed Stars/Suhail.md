@@ -1,6 +1,5 @@
 # Suhail
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** smooth sailing, inspired storytelling, gentle authority, steady direction
 
@@ -53,4 +52,3 @@ Meditating on Suhail draws in the steady winds of destiny and the wisdom carried
 
 > "I navigate life smoothly, guided by clear purpose and gentle strength."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

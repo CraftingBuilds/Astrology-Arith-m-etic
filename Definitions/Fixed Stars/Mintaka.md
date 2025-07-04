@@ -1,6 +1,5 @@
 # Mintaka
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Orientation, navigation, perseverance, clarity in chaos
 
@@ -55,4 +54,3 @@ Mintaka serves as a cosmic compass. In meditations, it highlights the higher roa
 > "My path is illuminated, and I follow it with unwavering resolve."
 
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

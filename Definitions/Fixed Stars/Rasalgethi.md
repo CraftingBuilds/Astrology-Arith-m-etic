@@ -1,6 +1,5 @@
 # Rasalgethi
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** passionate resolve, humbled power, wise restraint, balancing desire
 
@@ -53,4 +52,3 @@ Meditation with Rasalgethi helps reconcile personal passion with higher ethics. 
 
 > "With humility and resolve, I channel my passion for the greater good."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

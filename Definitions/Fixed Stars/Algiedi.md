@@ -1,6 +1,5 @@
 # Algiedi
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Humble beginnings, resourcefulness, patient progress, protective guidance
 
@@ -57,4 +56,3 @@ Algiedi resonates with the climb toward mastery and the guardian spirit of the h
 
 > "With patience and care, I cultivate strength that endures."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

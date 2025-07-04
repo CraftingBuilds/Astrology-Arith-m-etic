@@ -1,6 +1,5 @@
 # Antares
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** intense power, passion, decisive action, fiery rebirth
 
@@ -70,4 +69,3 @@ power to cut away stagnation and rise renewed.
 
 > "I wield my power with courage and renew my spirit."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

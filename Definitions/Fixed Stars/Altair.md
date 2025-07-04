@@ -1,6 +1,5 @@
 # Altair
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** swift courage, soaring vision, decisive leadership, daring leaps
 
@@ -64,4 +63,3 @@ lends support.*
 
 > "I soar above hesitation and act with fearless clarity."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

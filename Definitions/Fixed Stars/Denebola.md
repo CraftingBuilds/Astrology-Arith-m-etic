@@ -1,6 +1,5 @@
 # Denebola
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** swift change, reform, independence, back to basics
 
@@ -69,4 +68,3 @@ where old habits must be released.
 
 > "I embrace change and create new possibilities."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

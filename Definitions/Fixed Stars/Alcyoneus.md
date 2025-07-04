@@ -1,6 +1,5 @@
 # Alcyoneus
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** cosmic reach, vast perspective, far‑flung networking, quiet power
 
@@ -75,4 +74,3 @@ lends support.*
 
 > "My influence travels farther than I can see, uniting distant souls."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

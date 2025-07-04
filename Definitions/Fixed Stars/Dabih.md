@@ -1,6 +1,5 @@
 # Dabih
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** cautious optimism, balanced thinking, measured growth
 
@@ -68,4 +67,3 @@ encourages persistence while remaining open to gradual progress.
 
 > "Through steady effort, my goals are realized."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

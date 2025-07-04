@@ -1,6 +1,5 @@
 # Algorab
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Cunning, trickster insight, observation, consequence, crow magic
 
@@ -56,4 +55,3 @@ Algorab is useful in shadow path workings, mirror magic and unveiling deception.
 
 > "I navigate shadows with clear sight and agile mind."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

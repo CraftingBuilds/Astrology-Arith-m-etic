@@ -1,6 +1,5 @@
 # Mirfak
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** heroic courage, rising to challenges, central command, noble quest
 
@@ -53,4 +52,3 @@ Meditation on Mirfak summons the archetypal hero within. It guides the seeker to
 
 > "I meet challenges with heroic heart and unwavering resolve."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

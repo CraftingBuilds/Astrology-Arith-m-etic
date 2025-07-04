@@ -1,6 +1,5 @@
 # El Nath
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** piercing insight, decisive movement, protective force
 
@@ -69,4 +68,3 @@ act decisively in defense of truth.
 
 > "With steady aim I strike true and protect what I love."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

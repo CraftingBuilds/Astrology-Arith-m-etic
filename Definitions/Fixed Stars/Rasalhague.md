@@ -1,6 +1,5 @@
 # Rasalhague
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Healing integration, serpent wisdom, intense charisma, transformative medicine
 
@@ -50,4 +49,3 @@ Rasalhague connects to serpent medicine and the fusion of opposites. Meditating 
 
 ## Affirmation:
 > "Through healing the serpent teaches me to wield power wisely."
-#astrology #AstrologyArithetic #FixedStars #Definitions

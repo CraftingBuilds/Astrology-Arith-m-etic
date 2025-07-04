@@ -1,6 +1,5 @@
 # Nihal
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** restful focus, subtle skill, patient observation, measured response
 
@@ -66,4 +65,3 @@ lends support.*
 
 > "With patient focus I secure success that endures."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

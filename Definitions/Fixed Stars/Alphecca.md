@@ -1,6 +1,5 @@
 # Alphecca
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** flourishing talent, creative spark, bestowal of gifts
 
@@ -70,4 +69,3 @@ gifts.
 
 > "My talents bloom and attract the right audience."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

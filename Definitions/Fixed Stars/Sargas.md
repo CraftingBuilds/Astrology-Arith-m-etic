@@ -1,6 +1,5 @@
 # Sargas
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** penetrating insight, persistent ambition, secret paths, strategic pursuit
 
@@ -53,4 +52,3 @@ Meditating with Sargas enhances the ability to see beneath illusions and pursue 
 
 > "With clear sight and steady resolve, I uncover the path to success."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

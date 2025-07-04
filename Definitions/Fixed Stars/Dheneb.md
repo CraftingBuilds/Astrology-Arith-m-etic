@@ -1,6 +1,5 @@
 # Dheneb
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** subtle guidance, mystical navigation, hidden
 blessings
@@ -70,4 +69,3 @@ the quiet support of unseen forces.
 
 > "I trust the gentle signs that steer my way."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

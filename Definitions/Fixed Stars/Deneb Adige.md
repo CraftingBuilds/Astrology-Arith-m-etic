@@ -1,6 +1,5 @@
 # Deneb Adige
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Inspirational guidance, poetic insight, mystical orientation, swan's flight
 
@@ -51,4 +50,3 @@ Deneb Adige opens channels between earth and sky. Meditation with this star aids
 ## Affirmation:
 > "My spirit soars like the swan, carrying wisdom from the heavens."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

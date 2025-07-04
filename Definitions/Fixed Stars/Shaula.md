@@ -1,6 +1,5 @@
 # Shaula
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** swift strike, decisive spirit, mystical intensity
 
@@ -57,4 +56,3 @@ Shaula’s venomous point channels the serpent power of transformation. Meditati
 
 > "With focused resolve I strike true and transform my path."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

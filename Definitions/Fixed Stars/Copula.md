@@ -1,6 +1,5 @@
 # Copula
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** spiraling union, cosmic gateway, merging currents, deep perception
 
@@ -73,4 +72,3 @@ lends support.*
 
 > "I spiral with the cosmos, weaving new worlds from old threads."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

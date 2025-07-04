@@ -1,6 +1,5 @@
 # Procyon
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Alertness, swiftness, faithful guidance, bridge between worlds
 
@@ -54,4 +53,3 @@ Procyon offers a bridge between mundane and spiritual realms, often acting as a 
 > "I act swiftly and wisely, guided by loyal intuition."
 
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

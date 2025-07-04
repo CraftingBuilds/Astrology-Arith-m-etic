@@ -1,6 +1,5 @@
 # Alderamin
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Rotational focus, adaptive leadership, steady orientation, pivot point
 
@@ -57,4 +56,3 @@ Alderamin’s poleward path connects to the cosmic axis. Meditation here aligns 
 
 > "I adjust my course with wisdom, guiding others by my steady heart."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

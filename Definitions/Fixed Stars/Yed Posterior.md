@@ -1,6 +1,5 @@
 # Yed Posterior
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** closing grasp, secret insight, protective action, decisive withdrawal
 
@@ -53,4 +52,3 @@ Meditation on Yed Posterior sharpens intuition about personal safety and the pro
 
 > "I protect my path by releasing what no longer serves me."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

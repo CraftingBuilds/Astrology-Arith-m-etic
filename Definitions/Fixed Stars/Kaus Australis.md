@@ -1,6 +1,5 @@
 # Kaus Australis
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** true aim, confident leadership, clear intention, hitting the mark
 
@@ -53,4 +52,3 @@ Meditating on Kaus Australis steadies the inner archer. The star's energy clarif
 
 > "With unwavering aim, I pursue my true purpose."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

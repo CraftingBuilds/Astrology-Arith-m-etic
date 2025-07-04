@@ -1,6 +1,5 @@
 # Markab
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Stability, discipline, steadfast progress, honor
 
@@ -54,4 +53,3 @@ Markab’s energy resembles a trusty mount, carrying the seeker over long distan
 > "With patience and honor, I ride steadily toward my goals."
 
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

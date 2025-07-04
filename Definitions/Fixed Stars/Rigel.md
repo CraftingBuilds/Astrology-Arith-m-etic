@@ -1,6 +1,5 @@
 # Rigel
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** brilliance in action, confident stride, recognized skill, triumphant energy
 
@@ -53,4 +52,3 @@ Meditation on Rigel taps into Orion’s prowess and encourages confidence withou
 
 > "With skill and courage, I stride toward success."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

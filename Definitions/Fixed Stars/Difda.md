@@ -1,6 +1,5 @@
 # Difda
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** cautious retreat, clearing endings, acceptance
 
@@ -65,4 +64,3 @@ clear conscience.
 
 > "I release the past and move forward with calm."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

@@ -1,6 +1,5 @@
 # Hamal
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Determination, willpower, leadership, primal urge
 
@@ -54,4 +53,3 @@ Hamal embodies the raw impulse that initiates a journey. Meditating on this star
 
 > "I lead with clarity and strength, forging my own path."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions
