@@ -1,6 +1,5 @@
 # Zubeneschamali
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Fortune, diplomacy, idealism, celestial favor
 
@@ -54,4 +53,3 @@ Zubeneschamali represents the light side of the scales—promising hope and fair
 > "Through grace and fairness, I cultivate harmony in all my dealings."
 
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

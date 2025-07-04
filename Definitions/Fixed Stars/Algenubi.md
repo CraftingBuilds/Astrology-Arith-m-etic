@@ -1,6 +1,5 @@
 # Algenubi
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** protective leadership, steadfastness, noble resolve
 
@@ -67,4 +66,3 @@ and the spiritual vow to defend what is precious.
 
 > "With honor I guard those I love."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

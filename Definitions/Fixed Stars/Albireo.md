@@ -1,6 +1,5 @@
 # Albireo
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Harmonious blending, aesthetic perception, bridge-building, eloquent connection
 
@@ -57,4 +56,3 @@ Albireo's energy mirrors the Rainbow Bridge of myth, linking realms and fosterin
 
 > "My words weave harmony, guiding hearts toward shared beauty."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

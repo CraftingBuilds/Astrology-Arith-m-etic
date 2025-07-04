@@ -1,6 +1,5 @@
 # Menkar
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** collective emotion, deep currents, confronting shadows, rising from depths
 
@@ -53,4 +52,3 @@ Meditation on Menkar invites one to honor the great ocean of collective experien
 
 > "I confront the depths with courage and rise renewed."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

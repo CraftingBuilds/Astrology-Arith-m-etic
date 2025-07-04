@@ -1,6 +1,5 @@
 # Dorsum
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** endurance, steadfast progress, carrying burdens
 
@@ -66,4 +65,3 @@ carry responsibilities with grace.
 
 > "Step by step, I reach the summit."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

@@ -1,6 +1,5 @@
 # Ankaa
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** guiding flame, rebirth, steadfast resilience, purification
 
@@ -65,4 +64,3 @@ lends support.*
 
 > "From every trial I emerge renewed and inspired."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

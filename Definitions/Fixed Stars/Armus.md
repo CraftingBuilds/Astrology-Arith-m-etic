@@ -1,6 +1,5 @@
 # Armus
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** pioneering spark, passionate drive, youthful daring, sudden starts
 
@@ -67,4 +66,3 @@ lends support.*
 
 > "I ignite fresh paths with confidence and courage."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

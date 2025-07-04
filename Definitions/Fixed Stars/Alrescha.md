@@ -1,6 +1,5 @@
 # Alrescha
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** binding connection, crossroad choices, mediating currents
 
@@ -57,4 +56,3 @@ Alrescha is the cosmic knot uniting dual forces. Meditation with this star clari
 
 > "I unite divergent paths, choosing harmony over separation."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

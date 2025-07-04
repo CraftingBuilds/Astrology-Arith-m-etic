@@ -1,6 +1,5 @@
 # Facies
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Piercing vision, relentless focus, direct confrontation, searing insight
 
@@ -57,4 +56,3 @@ Facies fuels workings that require an unerring line of sight. Meditating with th
 
 > "My aim is true; I see through obstacles and act with unwavering resolve."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

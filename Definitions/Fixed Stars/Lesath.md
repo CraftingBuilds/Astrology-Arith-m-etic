@@ -1,6 +1,5 @@
 # Lesath
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** piercing insight, urgent endings, sharpened instincts, covert moves
 
@@ -70,4 +69,3 @@ lends support.*
 
 > "I strike at corruption and transform adversity into strength."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

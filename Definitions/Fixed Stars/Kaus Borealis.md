@@ -1,6 +1,5 @@
 # Kaus Borealis
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** strategic foresight, steady aim, higher vantage, disciplined energy
 
@@ -53,4 +52,3 @@ Meditating with Kaus Borealis sharpens long-range vision. It teaches the seeker 
 
 > "My aim is sure, guided by clear vision and patient resolve."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

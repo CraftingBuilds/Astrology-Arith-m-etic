@@ -1,8 +1,3 @@
----
-tags: astrology, astrologyarithetic, fixedstars, definitions, needsupdate
----
-Regulus
-
 Regulus – The Heart of the Lion (α Leonis)
 Keywords: Sovereignty, Honor, Success, Noble Leadership
 

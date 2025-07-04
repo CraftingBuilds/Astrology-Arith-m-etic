@@ -1,6 +1,5 @@
 # Aludra
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** faithful service, support role, gentle resolve
 
@@ -69,4 +68,3 @@ teaches the spiritual power found in selfless acts.
 
 > "Through service I reveal my quiet strength."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

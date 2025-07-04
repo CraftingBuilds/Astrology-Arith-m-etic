@@ -1,6 +1,5 @@
 # Spiculum
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** piercing reality, harsh revelation, concentrated aim
 
@@ -57,4 +56,3 @@ Meditation with Spiculum sharpens inner sight, like viewing stars through a tele
 
 > "Through stark truth I refine my purpose and move forward." 
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

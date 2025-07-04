@@ -1,6 +1,5 @@
 # Alpheratz
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** freedom, clarity, integrating logic and intuition
 
@@ -69,4 +68,3 @@ logic with intuition to open doors of perception.
 
 > "I free my mind and embrace new horizons."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

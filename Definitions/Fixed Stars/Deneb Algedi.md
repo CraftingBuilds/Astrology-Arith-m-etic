@@ -1,6 +1,5 @@
 # Deneb Algedi
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** lawful protection, wise judgment, strategic focus
 
@@ -69,4 +68,3 @@ spiritual boundaries in chaotic times.
 
 > "I uphold order and safeguard what matters most."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

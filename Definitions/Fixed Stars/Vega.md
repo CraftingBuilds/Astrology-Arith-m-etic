@@ -1,6 +1,5 @@
 # Vega
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Artistic brilliance, charisma, heavenly music, guiding star
 
@@ -54,4 +53,3 @@ Vega is seen by some as a gateway to higher harmonies. Meditation with this star
 > "My talents shine brightly, inspiring beauty and wonder in the world."
 
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

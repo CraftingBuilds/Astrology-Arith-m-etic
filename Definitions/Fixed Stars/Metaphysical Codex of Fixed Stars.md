@@ -1,4 +1,3 @@
-#astrology #AstrologyArithetic #FixedStars 
 ## Behenian Stars
 ### [[Algol]]
 **Meaning:** Algol, known as the Demon Star, represents primal chaos, severance, and transformation through destruction.  It is linked to the myth of Medusa and symbolizes facing fear, taboo, and shadow power.

@@ -1,6 +1,5 @@
 # Almach
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** union of opposites, harmony, creative partnership
 
@@ -70,4 +69,3 @@ create beauty together.
 
 > "I honor the dance of difference that forms harmony."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

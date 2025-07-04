@@ -1,6 +1,5 @@
 # Kaus Media
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** midpoint focus, balanced momentum, disciplined progress, arching strength
 
@@ -53,4 +52,3 @@ Meditation with Kaus Media reinforces steadfast intention and balanced pressure,
 
 > "I hold steady and see my ambitions through with patience."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

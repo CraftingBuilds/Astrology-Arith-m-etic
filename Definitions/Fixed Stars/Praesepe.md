@@ -1,6 +1,5 @@
 # Praesepe
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** collective memory, nurturing community, swarm intelligence, busy cooperation
 
@@ -53,4 +52,3 @@ Meditation on Praesepe connects the seeker to ancestral lineage and the power of
 
 > "In the hive of community, we thrive together."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

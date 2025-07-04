@@ -1,6 +1,5 @@
 # Bellatrix
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** strategic skill, courage, calculated risk
 
@@ -68,4 +67,3 @@ martial energy into thoughtful action.
 
 > "My strategy and courage secure my victory."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

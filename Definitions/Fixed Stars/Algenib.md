@@ -1,6 +1,5 @@
 # Algenib
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** bursting energy, courageous leaps, creative ignition
 
@@ -70,4 +69,3 @@ spiritual exploration.
 
 > "With courage I spread my wings and take flight."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

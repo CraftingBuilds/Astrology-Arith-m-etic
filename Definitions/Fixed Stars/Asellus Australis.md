@@ -1,6 +1,5 @@
 # Asellus Australis
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** resourceful tenacity, protective instinct, humble service, steady pace
 
@@ -72,4 +71,3 @@ lends support.*
 
 > "Through steady service I nurture lasting security."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

@@ -1,6 +1,5 @@
 # Acumen
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** sharp perception, trials, mental endurance, confronting hardship
 
@@ -68,4 +67,3 @@ lends support.*
 
 > "Every challenge hones my perception and strengthens my resolve."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

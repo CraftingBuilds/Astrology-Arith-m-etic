@@ -1,6 +1,5 @@
 # Alkes
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** sacred vessel, memory, receptivity, deep tradition
 
@@ -71,4 +70,3 @@ sacred cauldrons.
 
 > "I hold the vessel of memory with reverence."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

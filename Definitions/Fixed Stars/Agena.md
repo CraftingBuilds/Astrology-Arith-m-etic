@@ -1,6 +1,5 @@
 # Agena
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** honorable service, tactical skill, respected authority, protective strength
 
@@ -63,4 +62,3 @@ lends support.*
 
 > "My strength is guided by honor and clear purpose."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

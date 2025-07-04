@@ -1,6 +1,5 @@
 # Sadalsuud
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** fortune, collective vision, social optimism, universal support
 
@@ -53,4 +52,3 @@ Meditation on Sadalsuud opens awareness to universal support and the ability to 
 
 > "Together we create a brighter future for all."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

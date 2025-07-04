@@ -68,4 +68,3 @@ Not a ritual for the star — a list of working types where this star lends supp
 
 > “I lead through truth.  What I speak, I embody.  My path is illuminated by honor.”
 
-#FixedStars #astrology #AstrologyArithetic #Definitions 

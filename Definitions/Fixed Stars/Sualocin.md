@@ -1,6 +1,5 @@
 # Sualocin
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** playful strategy, secret naming, dexterous thinking, inventive flow
 
@@ -53,4 +52,3 @@ Meditation on Sualocin invites awareness of subtle messages and hidden meanings.
 
 > "With humor and ingenuity, I navigate every challenge."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

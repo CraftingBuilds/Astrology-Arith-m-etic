@@ -1,6 +1,5 @@
 # Al Jabhah
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** fierce dignity, assertive presence, bold ambitions
 
@@ -70,4 +69,3 @@ self-confidence and regal bearing.
 
 > "I rise with courage and command my destiny."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

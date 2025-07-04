@@ -1,6 +1,5 @@
 # Enif
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** culmination, far-sighted vision, bridging worlds, bold completion
 
@@ -53,4 +52,3 @@ Meditation on Enif encourages perseverance and a far-sighted approach. It links 
 
 > "My vision takes form, and I complete my journey with grace."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions
