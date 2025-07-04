@@ -58,4 +58,3 @@ Not a ritual for the star — a list of working types where this star lends supp
 
 > “I am the fire that cannot be extinguished.  My truth is forged in shadow, and my voice is my return.”
 
-#astrology #AstrologyArithetic #FixedStars #Definitions 

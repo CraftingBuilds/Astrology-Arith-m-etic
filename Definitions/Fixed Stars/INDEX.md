@@ -1,7 +1,3 @@
----
-tags: [INDEX, Fixed Stars, Housekeeping]
----
-
 ```text
 Definitions/Fixed Stars
 ├── [[Definitions/Fixed Stars/Alcyone.md]]

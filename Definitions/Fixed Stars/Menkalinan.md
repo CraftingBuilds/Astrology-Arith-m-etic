@@ -1,6 +1,5 @@
 # Menkalinan
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Honor, teamwork, responsibility, sudden turns
 
@@ -55,4 +54,3 @@ Menkalinan carries the lesson of mindful movement—like a charioteer controllin
 > "I steer my course with balance, ready for any turn of fate."
 
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

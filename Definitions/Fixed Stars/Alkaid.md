@@ -1,6 +1,5 @@
 # Alkaid
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** disciplined ambition, martial resolve, noble sacrifice, sharp focus
 
@@ -64,4 +63,3 @@ lends support.*
 
 > "My resolve is steadfast; my actions are precise and honorable."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

@@ -1,6 +1,5 @@
 # Unukalhai
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** potent healing, magnetic influence, serpentine insight, resilience
 
@@ -53,4 +52,3 @@ Meditating on Unukalhai awakens serpent medicine—both the power to cure and th
 
 > "I wield transformative power with wisdom and care."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

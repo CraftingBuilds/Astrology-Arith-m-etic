@@ -1,6 +1,5 @@
 # Spica
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** creative gifts, refined talents, graceful reward, fertile potential
 
@@ -53,4 +52,3 @@ Meditation on Spica invites alignment with divine inspiration. It teaches how to
 
 > "My gifts flourish and bring grace to my life and others."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

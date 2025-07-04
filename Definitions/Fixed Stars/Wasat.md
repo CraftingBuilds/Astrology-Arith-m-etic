@@ -1,6 +1,5 @@
 # Wasat
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** mediation, middle ground, balanced discourse, careful consideration
 
@@ -53,4 +52,3 @@ Meditation on Wasat clarifies how to harmonize contradictions. It aids in findin
 
 > "I navigate between extremes, forging harmony through balanced choice."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

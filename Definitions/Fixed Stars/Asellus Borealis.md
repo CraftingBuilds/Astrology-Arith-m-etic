@@ -1,6 +1,5 @@
 # Asellus Borealis
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** protective instincts, small victories, tenacity
 
@@ -70,4 +69,3 @@ strength found in small acts of kindness.
 
 > "In steadfast service I find my quiet power."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

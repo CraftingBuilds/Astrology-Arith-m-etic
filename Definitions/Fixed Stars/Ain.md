@@ -1,6 +1,5 @@
 # Ain
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** clarity of vision, focused observation, reliability
 
@@ -70,4 +69,3 @@ and grounding visions in reality.
 
 > "My clarity guides me toward steady success."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

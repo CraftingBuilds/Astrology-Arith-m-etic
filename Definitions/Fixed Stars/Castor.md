@@ -1,6 +1,5 @@
 # Castor
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** adaptable intellect, dual roles, clever storytelling
 
@@ -67,4 +66,3 @@ balance multiple interests and harmonize left and right brain.
 
 > "I embrace my many talents with fluid grace."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

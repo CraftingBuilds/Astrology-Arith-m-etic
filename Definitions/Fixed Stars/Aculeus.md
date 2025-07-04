@@ -1,6 +1,5 @@
 # Aculeus
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Resilience, adversity, piercing insight, endurance, transmutation
 
@@ -56,4 +55,3 @@ This star assists rites of endurance, resilience magic and transmuting criticism
 
 > "Through challenge I gain clarity and unwavering strength."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

@@ -1,7 +1,3 @@
----
-tags: astrology, astrologyarithetic, fixedstars, definitions, needsupdate
----
-Polaris
 Polaris – The Pole Star (α Ursae Minoris)
 Keywords: Cosmic Anchor, True North, Spiritual Orientation, Endurance
 

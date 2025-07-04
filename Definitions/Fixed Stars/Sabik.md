@@ -1,6 +1,5 @@
 # Sabik
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** quick judgment, cunning insight, shifting fortunes, solving puzzles
 
@@ -53,4 +52,3 @@ Meditation with Sabik sharpens intuition and reveals subtle patterns. It teaches
 
 > "My insight is swift, revealing the path through complexity."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

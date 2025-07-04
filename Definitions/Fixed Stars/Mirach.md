@@ -1,6 +1,5 @@
 # Mirach
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** supportive links, feminine grace, artistic inspiration, weaving connections
 
@@ -53,4 +52,3 @@ Meditating on Mirach opens pathways of connection and invites gentle guidance fr
 
 > "Through harmony and art, I unite hearts and ideas."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

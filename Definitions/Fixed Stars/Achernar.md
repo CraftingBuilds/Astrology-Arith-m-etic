@@ -1,6 +1,5 @@
 # Achernar
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Guiding Current, Spiritual Renewal, Purifying Descent, Bright Horizon
 
@@ -53,4 +52,3 @@ Achernar acts as a bright gate of purification. Its current supports ceremonies 
 
 > "I let the old flow downstream and greet the clear horizon ahead."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

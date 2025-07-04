@@ -1,6 +1,5 @@
 # Ras Alhague
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** healing touch, integrating opposites, teaching through experience, sacred medicine
 
@@ -53,4 +52,3 @@ Meditating on Ras Alhague taps into serpent wisdom and the power of transformati
 
 > "Through healing, I weave opposing forces into harmony."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

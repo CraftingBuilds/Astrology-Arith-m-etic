@@ -1,6 +1,5 @@
 # Canopus
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Guiding navigation, far-reaching voyages, revered elders, trusted authority
 
@@ -49,4 +48,3 @@ Canopus serves as a beacon for spiritual navigation. Use its light to chart unce
 
 ## Affirmation:
 > "I navigate life with wisdom, guided by stars and elders."
-#astrology #AstrologyArithetic #FixedStars #Definitions

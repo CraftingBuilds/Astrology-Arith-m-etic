@@ -1,6 +1,5 @@
 # Acubens
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Protective Instinct, Tenacity, Shelter, Cautious Strategy
 
@@ -53,4 +52,3 @@ Acubens vibrates with the energy of the guardian. Meditating on this star can re
 
 > "I guard what matters with steady heart and wise hands."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

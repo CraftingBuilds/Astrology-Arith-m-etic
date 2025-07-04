@@ -1,6 +1,5 @@
 # Thuban
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** ancient authority, protective watchfulness, enduring legacy, guardianship
 
@@ -53,4 +52,3 @@ Meditation on Thuban connects one with ancestral guardians and the enduring axis
 
 > "I guard what is precious and carry wisdom through the ages."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

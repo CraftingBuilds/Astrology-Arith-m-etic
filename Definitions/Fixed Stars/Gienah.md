@@ -1,6 +1,5 @@
 # Gienah
 
-Back to [[Fixed Stars Time Nomad]]
 
 
 **Keywords:** Subtle perception, opportunistic wit, graceful navigation, corvid insight
@@ -54,4 +53,3 @@ Gienah resonates with the corvid archetype—messenger between realms and scaven
 
 > "My sharp eyes and quick mind guide me through shifting landscapes."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

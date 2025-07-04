@@ -1,6 +1,5 @@
 # Castra
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** defensive stance, steady commitment, resilience
 
@@ -68,4 +67,3 @@ to conserve energy for what truly matters.
 
 > "My persistence fortifies me against hardship."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

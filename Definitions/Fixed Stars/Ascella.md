@@ -1,6 +1,5 @@
 # Ascella
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Quick success, team spirit, fortunate navigation, social momentum
 
@@ -53,4 +52,3 @@ Ascella’s current carries the Archer’s optimistic sight. Meditation here foc
 
 > "My momentum grows when I move in harmony with others."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

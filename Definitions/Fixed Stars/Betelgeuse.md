@@ -1,6 +1,5 @@
 # Betelgeuse
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** expansive drive, heroic action, bold reputation
 
@@ -66,4 +65,3 @@ with heroic archetypes.
 
 > "I act with brave heart and generous spirit."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

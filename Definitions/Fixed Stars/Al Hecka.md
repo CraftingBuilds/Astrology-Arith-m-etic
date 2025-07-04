@@ -1,6 +1,5 @@
 # Al Hecka
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Bold thrust, confrontational energy, courageous challenge, edge of risk
 
@@ -57,4 +56,3 @@ Al Hecka’s energy acts like the point of a spear—focusing intention into dec
 
 > "I wield my power responsibly, forging ahead with fearless resolve."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

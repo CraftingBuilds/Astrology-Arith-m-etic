@@ -1,6 +1,5 @@
 # Alhena
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** announcing intention, martial artistry, direct path
 
@@ -67,4 +66,3 @@ seal personal oaths and awaken inner drive.
 
 > "I step forward and proclaim my purpose."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

@@ -1,6 +1,5 @@
 # Alphard
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** intense passion, solitary strength, survival
 
@@ -70,4 +69,3 @@ emotional depths safely.
 
 > "My passion endures and guides me through storms."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

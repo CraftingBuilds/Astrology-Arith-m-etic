@@ -59,4 +59,3 @@ When a planet conjuncts [[Alcyone]], it becomes linked to a heightened field of 
 
 > “I see with clarity and compassion..  I speak truth, even when it trembles the world.”
 
-#FixedStars #astrology #AstrologyArithetic #Definitions 

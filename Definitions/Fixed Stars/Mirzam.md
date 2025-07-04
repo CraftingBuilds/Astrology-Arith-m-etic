@@ -1,6 +1,5 @@
 # Mirzam
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** Heralding change, swift messages, vigilant readiness, early warnings
 
@@ -46,7 +45,6 @@ Mirzam vibrates with alert awareness. Meditate with this star to enhance intuiti
 **Effective timing:**
 - Just before [[Sirius]] rises or when the [[Moon]] meets early [[Cancer]]
 
-#astrology #AstrologyArithetic #FixedStars #Definitions
 
 ## Affirmation:
 > "I stay alert and speak when signs appear."

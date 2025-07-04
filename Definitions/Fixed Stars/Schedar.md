@@ -1,6 +1,5 @@
 # Schedar
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** regal presence, assured dignity, self-awareness, poised command
 
@@ -64,4 +63,3 @@ lends support.*
 
 > "I honor my worth with grace and lead by humble example."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

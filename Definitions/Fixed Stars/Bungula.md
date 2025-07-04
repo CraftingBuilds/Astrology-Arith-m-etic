@@ -1,6 +1,5 @@
 # Bungula
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** neighborly ties, navigational aid, stable foundation, trusted link
 
@@ -69,4 +68,3 @@ lends support.*
 
 > "I value the allies near me and travel safely with their guidance."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

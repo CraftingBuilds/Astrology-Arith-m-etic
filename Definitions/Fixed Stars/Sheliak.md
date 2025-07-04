@@ -1,6 +1,5 @@
 # Sheliak
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** fluid artistry, adaptive strategy, enchanting persuasion
 
@@ -57,4 +56,3 @@ Sheliak resonates with the mystic strings of the lyre. Meditation here fine-tune
 
 > "I tune my voice to the ever-changing melody, guiding outcomes with grace."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

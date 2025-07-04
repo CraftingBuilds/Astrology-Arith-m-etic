@@ -1,6 +1,5 @@
 # Arcturus
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** guardianship, pioneering spirit, benevolent action
 
@@ -69,4 +68,3 @@ and encourages courageous new beginnings.
 
 > "With courage and care, I lead toward brighter horizons."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

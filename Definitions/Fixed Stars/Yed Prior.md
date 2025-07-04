@@ -1,6 +1,5 @@
 # Yed Prior
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** grasping opportunity, decisive engagement, bold initiative, sharp focus
 
@@ -53,4 +52,3 @@ Meditation on Yed Prior emphasizes courage and the willingness to grasp what is 
 
 > "I grasp my destiny with courage and clear intent."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

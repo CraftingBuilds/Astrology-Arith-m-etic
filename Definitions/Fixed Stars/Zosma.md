@@ -1,6 +1,5 @@
 # Zosma
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** resilience, compassionate service, protective awareness, empathetic power
 
@@ -53,4 +52,3 @@ Meditating on Zosma helps transmute personal suffering into empathy and power to
 
 > "From hardship I rise, offering strength and compassion to those in need."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

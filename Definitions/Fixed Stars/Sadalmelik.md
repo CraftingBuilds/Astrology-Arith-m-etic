@@ -1,6 +1,5 @@
 # Sadalmelik
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** generous leadership, flowing abundance, benevolent guidance, social networks
 
@@ -53,4 +52,3 @@ Meditation on Sadalmelik opens the heart to generous giving and wise use of infl
 
 > "I share my gifts freely, guiding others toward abundance."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

@@ -1,6 +1,5 @@
 # Phecda
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** grounded energy, harnessing instinct, purposeful drive, stable foundations
 
@@ -53,4 +52,3 @@ Meditation on Phecda connects one to ancestral strength and the enduring energy 
 
 > "With steady will, I build enduring foundations."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

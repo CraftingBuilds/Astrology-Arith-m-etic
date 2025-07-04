@@ -1,6 +1,5 @@
 # Tarazed
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** moral courage, steady ascent, noble sacrifice, guiding flame
 
@@ -53,4 +52,3 @@ Meditation on Tarazed enkindles courage and persistence in the face of trials. I
 
 > "I rise with honor, steadfast in my chosen mission."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions

@@ -1,6 +1,5 @@
 # Al Pherg
 
-Back to [[Fixed Stars Time Nomad]]
 
 **Keywords:** culmination, integration, purposeful endings
 
@@ -70,4 +69,3 @@ life's many journeys are reconciled.
 
 > "I gather my experiences and release them in peace."
 
-#astrology #AstrologyArithetic #FixedStars #Definitions
