@@ -3,7 +3,7 @@
 **Glyph:** ∟ (or use a doubled ∟ for visual distinction if desired)
 
 # **Description:** 
-A binovile aspect occurs when two planets are separated by 80 degrees, which is twice the angle of a novile (40°). It is considered a ‘minor harmonious aspect’ associated with refined spiritual development, creative sensitivity, and soft inner realizations. While subtle, binovals signal potential for inner-harmony and breakthrough, especially through repeated effort, sacred repetition, or artistic ritual. It often highlights [[Latent 1]] talents or pathways to gentle transformation. 
+A binovile aspect occurs when two planets are separated by 80 degrees, which is twice the angle of a novile (40°). It is considered a ‘minor harmonious aspect’ associated with refined spiritual development, creative sensitivity, and soft inner realizations. While subtle, binovals signal potential for inner-harmony and breakthrough, especially through repeated effort, sacred repetition, or artistic ritual. It often highlights [[Latent]] talents or pathways to gentle transformation. 
 
 # **Key Points:**
 - Represents the deepening of [[Novile 1]] energy — quite progress through devotion and repetition. 
