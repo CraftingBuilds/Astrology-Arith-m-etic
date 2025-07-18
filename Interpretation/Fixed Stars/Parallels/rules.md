@@ -9,4 +9,4 @@ tags:
 1. Orb generally within one degree.
 2. Treat parallels similarly to conjunctions.
 
-Backlink: [[overview.md|Parallels Overview]].
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Interpretation/Fixed Stars/Parallels/overview|Parallels Overview]].

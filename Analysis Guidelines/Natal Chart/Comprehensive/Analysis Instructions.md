@@ -14,4 +14,4 @@ tags: [analysis, natal, comprehensive]
 9. Trace rulership chains between planets to understand how energies flow through the chart.
 10. Integrate repeating themes into a concise narrative of innate potentials and developmental hurdles.
 
-Backlink: [[Overview.md|Comprehensive Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Natal Chart/Comprehensive/Overview|Comprehensive Overview]]

@@ -9,4 +9,4 @@ tags:
 - Pay attention to [[Retrograde]] periods.
 - Use exact aspect dates to predict peak influence.
 
-Backlink: [[overview.md|Transit Overview]].
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Interpretation/Charts/Transits/overview|Transit Overview]].

@@ -9,4 +9,4 @@ tags:
 
 Use precise aspect orbs and ephemeris data to time events. Combine transits with progressions for a layered forecasting approach.
 
-Backlink: [[timing.md|Transit Timing]].
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Interpretation/Charts/Transits/timing|Transit Timing]].

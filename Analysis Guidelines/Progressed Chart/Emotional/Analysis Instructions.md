@@ -12,4 +12,4 @@ tags: [analysis, progressed, emotional]
 7. Include outer-planet progressions to the Moon or Venus for generational influences on feelings.
 8. Summarize these indicators to describe inner feelings and relational patterns during this life stage.
 
-Backlink: [[Overview.md|Emotional Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Progressed Chart/Emotional/Overview|Emotional Overview]]

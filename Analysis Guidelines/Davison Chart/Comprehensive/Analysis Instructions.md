@@ -13,4 +13,4 @@ tags: [analysis, davison, comprehensive]
 8. Track transits and progressions to the Davison chart for timing significant events.
 9. Summarize the relationship's overall purpose, strengths, and challenges as revealed in this composite.
 
-Backlink: [[Overview.md|Comprehensive Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Davison Chart/Comprehensive/Overview|Comprehensive Overview]]

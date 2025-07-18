@@ -12,4 +12,4 @@ tags: [analysis, transit, spiritual]
 7. Integrate these transits with progressed insights to outline the bigger picture of spiritual evolution.
 8. Summarize how current transits encourage movement toward higher consciousness and purpose.
 
-Backlink: [[Overview.md|Spiritual Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Transit Chart/Spiritual/Overview|Spiritual Overview]]

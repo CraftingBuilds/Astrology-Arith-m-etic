@@ -9,4 +9,4 @@ tags:
 
 Apply secondary progression and solar arc directions to time important events. Compare these with transits for precise prediction work.
 
-Backlink: [[advanced-techniques.md|Advanced Progression Techniques]].
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Interpretation/Charts/Progression/advanced-techniques|Advanced Progression Techniques]].

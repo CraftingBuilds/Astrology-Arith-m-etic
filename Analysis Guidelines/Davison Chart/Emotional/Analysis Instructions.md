@@ -8,7 +8,7 @@ tags: [analysis, davison, emotional]
 3. Consider placements in water houses (4th, 8th, 12th) for depth of feeling and emotional bonding.
 4. Observe the condition of [[Mercury]] for communication style and how feelings are expressed.
 5. Check for challenging aspects involving Mars or Saturn that may signal emotional friction or blockages.
-6. Look at asteroid [[Juno]] or [[Ceres]] for nurturing themes and commitment dynamics.
+6. Look at asteroid [[Astrology Arith(m)etic - The Building Blocks of Astrology/Building Blocks/Celestial Bodies & Calculation Points/Asteroids/Juno]] or [[Astrology Arith(m)etic - The Building Blocks of Astrology/Building Blocks/Celestial Bodies & Calculation Points/Asteroids/Ceres]] for nurturing themes and commitment dynamics.
 7. Integrate these indicators to offer guidance on how each partner can nurture the relationship's emotional needs.
 
-Backlink: [[Overview.md|Emotional Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Davison Chart/Emotional/Overview|Emotional Overview]]

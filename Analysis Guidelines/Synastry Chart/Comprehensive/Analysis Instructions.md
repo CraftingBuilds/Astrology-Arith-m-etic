@@ -14,4 +14,4 @@ tags: [analysis, synastry, comprehensive]
 9. Summarize areas of natural harmony along with potential friction points needing conscious effort.
 10. Offer suggestions on how each partner can support the other's growth through the relationship dynamic.
 
-Backlink: [[Overview.md|Comprehensive Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Synastry Chart/Comprehensive/Overview|Comprehensive Overview]]

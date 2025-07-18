@@ -9,4 +9,4 @@ tags:
 - Secondary progressions show slow inner development.
 - Solar arc directions reveal life triggers.
 
-Backlink: [[overview.md|Progression Overview]].
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Interpretation/Charts/Progression/overview|Progression Overview]].

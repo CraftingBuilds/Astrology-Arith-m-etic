@@ -12,4 +12,4 @@ tags: [analysis, transit, emotional]
 7. Combine these indicators to forecast periods of heightened sensitivity, affection, or volatility.
 8. Offer coping strategies for handling emotional peaks or conflict-provoking transits.
 
-Backlink: [[Overview.md|Emotional Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Transit Chart/Emotional/Overview|Emotional Overview]]

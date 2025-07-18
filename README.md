@@ -6,7 +6,7 @@ I’m building this codex to collect, define, and refine the fundamental compone
 
 This system, which I call Astrology Arith(m)etic, is a structured breakdown of the essential “atoms” of astrology:
 - [[Planets (Classic and Modern)]]
-- [[Aspects]]
+- [[Astrology Arith(m)etic - The Building Blocks of Astrology/Interpretation/Charts/Synastry/aspects]]
 - Zodiac [[Signs]]
 - Houses, Fixed Stars, Points, Harmonics, and more
 
@@ -16,7 +16,7 @@ These entries are crafted for dual purpose:
 
 #### ✴ Codex Initiation
 
-Before exploring the definitions and frameworks within *Astrology Arith(m)etic*, begin with the [[Codex Activation Invocation]].
+Before exploring the definitions and frameworks within *Astrology Arith(m)etic*, begin with the [[Astrology Arith(m)etic - The Building Blocks of Astrology/Codex Activation Invocation]].
 
 This sets the tone, purpose, and protective field of the entire system. It is not optional — it is the spiritual root of the Codex.
 
@@ -42,5 +42,5 @@ You may explore and use this knowledge for **non-commercial** purposes freely.
 For commercial use or integration into paid projects or AI training, contact:
 
 📧 tech@schizostudios.org
-- 🔗 [[LICENSE]]
-- 📄 [[SSPUL-License.pdf]]
+- 🔗 [[Astrology Arith(m)etic - The Building Blocks of Astrology/LICENSE]]
+- 📄 [[Astrology Arith(m)etic - The Building Blocks of Astrology/Legal/SSPUL-License.pdf]]

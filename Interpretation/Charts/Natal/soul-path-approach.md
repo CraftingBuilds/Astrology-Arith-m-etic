@@ -9,4 +9,4 @@ tags:
 
 To discover life direction, evaluate the North Node and its aspects. The condition of the Midheaven reveals potential vocation. Consider planetary rulers of the nodes to understand karmic themes.
 
-Backlink: [[overview.md|Natal Chart Overview]].
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Interpretation/Charts/Natal/overview|Natal Chart Overview]].

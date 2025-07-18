@@ -9,4 +9,4 @@ tags:
 
 Focus on Moon-to-Moon and Venus-to-Mars connections to gauge emotional chemistry. Hard aspects may reveal friction while soft aspects promote understanding.
 
-Backlink: [[overview.md|Synastry Overview]].
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Interpretation/Charts/Synastry/overview|Synastry Overview]].

@@ -10,4 +10,4 @@ tags:
 2. Construct a new chart for that moment.
 3. Interpret as a standard natal chart but for the relationship entity.
 
-Backlink: [[overview.md|Davison Overview]].
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Interpretation/Charts/Davison/overview|Davison Overview]].

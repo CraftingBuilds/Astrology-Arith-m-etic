@@ -13,4 +13,4 @@ tags: [analysis, natal, emotional]
 8. Pay attention to retrograde planets influencing emotional processing or relational patterns.
 9. Integrate these factors to outline habitual emotional reactions and growth opportunities.
 
-Backlink: [[Overview.md|Emotional Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Natal Chart/Emotional/Overview|Emotional Overview]]

@@ -10,4 +10,4 @@ tags:
 2. Compare the chart ruler with the Ascendant sign.
 3. Assess element and modality balance.
 
-Backlink: [[overview.md|Natal Chart Overview]].
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Interpretation/Charts/Natal/overview|Natal Chart Overview]].

@@ -1,1 +1,0 @@
-The Spirit of Logos is the “Divine Force” that guides mankind in the “right” direction. 

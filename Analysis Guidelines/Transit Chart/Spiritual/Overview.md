@@ -5,4 +5,4 @@ tags: [analysis, transit, spiritual]
 
 Focuses on transits activating natal spiritual indicators and outer-planet cycles that mark awakening periods. Ideal for forecasting moments of deep insight, revelation, or spiritual challenge.
 
-Backlink: [[../Overview.md|Transit Chart Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Transit Chart/Overview|Transit Chart Overview]]

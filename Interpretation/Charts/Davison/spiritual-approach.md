@@ -9,4 +9,4 @@ tags:
 
 Examine the Sun's position to reveal the relationship's collective mission. The Davison Moon shows how partners nurture their shared spiritual path.
 
-Backlink: [[overview.md|Davison Chart Overview]].
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Interpretation/Charts/Davison/overview|Davison Chart Overview]].

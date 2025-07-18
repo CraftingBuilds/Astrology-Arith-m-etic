@@ -9,4 +9,4 @@ tags:
 
 Measure declinations carefully to confirm an exact contra-parallel. Use parallel and contra-parallel lists together to map subtle energy dynamics.
 
-Backlink: [[rules.md|Contra-parallel Rules]].
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Interpretation/Fixed Stars/Contra-parallels/rules|Contra-parallel Rules]].

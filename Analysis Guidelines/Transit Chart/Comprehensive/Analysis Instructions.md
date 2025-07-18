@@ -13,4 +13,4 @@ tags: [analysis, transit, comprehensive]
 8. Synthesize timing and themes to provide an overall forecast, noting clusters of activity.
 9. Offer practical suggestions for navigating challenging transits and maximizing opportunities.
 
-Backlink: [[Overview.md|Comprehensive Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Transit Chart/Comprehensive/Overview|Comprehensive Overview]]

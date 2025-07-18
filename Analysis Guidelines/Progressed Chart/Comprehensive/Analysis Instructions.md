@@ -13,4 +13,4 @@ tags: [analysis, progressed, comprehensive]
 8. Cross-reference significant progressions with current [[Transit Chart|transits]] for enhanced predictive accuracy.
 9. Summarize the progression story, highlighting emerging priorities and inner growth themes.
 
-Backlink: [[Overview.md|Comprehensive Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Progressed Chart/Comprehensive/Overview|Comprehensive Overview]]

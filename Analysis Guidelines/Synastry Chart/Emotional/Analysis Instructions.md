@@ -9,7 +9,7 @@ tags: [analysis, synastry, emotional]
 4. Consider planets falling in the partner's 4th, 5th, 7th, and 8th houses for intimacy and bonding potential.
 5. Evaluate water-sign emphasis and the presence of soft aspects for empathy and emotional ease.
 6. Observe challenging aspects such as squares or oppositions involving the Moon, Venus, or Mars for tension triggers.
-7. Look at asteroid [[Juno]] or [[Eros]] connections for deeper commitment and passion themes.
+7. Look at asteroid [[Astrology Arith(m)etic - The Building Blocks of Astrology/Building Blocks/Celestial Bodies & Calculation Points/Asteroids/Juno]] or [[Eros]] connections for deeper commitment and passion themes.
 8. Summarize how emotional needs can be met or misunderstood and offer guidance for compassionate communication.
 
-Backlink: [[Overview.md|Emotional Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Synastry Chart/Emotional/Overview|Emotional Overview]]

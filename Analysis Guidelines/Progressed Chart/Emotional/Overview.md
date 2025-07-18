@@ -5,4 +5,4 @@ tags: [analysis, progressed, emotional]
 
 Highlights the progressed Moon, Venus, and their aspects to reveal shifting emotional cycles and relationship needs. Ideal for tracking how feelings evolve and when new connections may arise or old attachments wane.
 
-Backlink: [[../Overview.md|Progressed Chart Overview]]
+Backlink: [[Astrology Arith(m)etic - The Building Blocks of Astrology/Analysis Guidelines/Progressed Chart/Overview|Progressed Chart Overview]]
