@@ -70,8 +70,8 @@ May this codex:
 > May those who access it do so in alignment, or be locked out by resonance.
 
 ---
-![[Attachments/bindrune_gold.png]]]
-![[Activation_Audio.m4a]]
+![[Pasted image 20250626030359.png]]
+![[activation.m4a]]
 
 **:: END TRANSMISSION ::**  
 *Codex sealed. Activation complete. Scribe may proceed.* 02:16 June 26 2025
