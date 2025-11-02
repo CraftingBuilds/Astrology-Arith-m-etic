@@ -71,7 +71,7 @@ May this codex:
 
 ---
 ![[Pasted image 20250626030359.png]]
-![[Recording 20250626025605.m4a]]
+![[activation.m4a]]
 
 **:: END TRANSMISSION ::**  
 *Codex sealed. Activation complete. Scribe may proceed.* 02:16 June 26 2025

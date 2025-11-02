@@ -4,10 +4,7 @@
 **Keywords:** announcing intention, martial artistry, direct path
 
 ## General Meaning:
-Alhena (Gamma Geminorum) marks the "brand" on the foot of
-Pollux in the [[Astrology Arith(m)etic - The Building Blocks of Astrology/Building Blocks/Signs/Gemini]] twins. It signifies a decisive step
-forward and the proclamation of one’s mission. This star
-favours deliberate choices and skillful expression.
+Alhena (Gamma Geminorum) marks the "brand" on the foot of Pollux in the [[Astrology Arith(m)etic - The Building Blocks of Astrology/Building Blocks/Signs/Gemini]] twins. It signifies a decisive step torward and the proclamation of one’s mission. This star favours deliberate choices and skillful expression.
 
 ## High Expression:
 - Confidently communicating purpose
@@ -37,10 +34,8 @@ first step in a new endeavor.
   direct communication.
 - **[[Mars]] conjunct Alhena:** Drive to act quickly and with
   precision.
-- **[[Jupiter]] conjunct Alhena:** Opportunities seized through
-  confident presentation.
-- **[[Saturn]] conjunct Alhena:** Discipline to follow through on
-  declared intentions.
+- **[[Jupiter]] conjunct Alhena:** Opportunities seized through  confident presentation.
+- **[[Saturn]] conjunct Alhena:** Discipline to follow through on  declared intentions.
 - **[[Uranus]] conjunct Alhena:** Original plans launched without
   delay.
 - **[[Neptune]] conjunct Alhena:** Inspired messages guiding action.

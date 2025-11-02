@@ -3,7 +3,7 @@
 **Glyph:** 1/20 or 18° (numeric form preferred — no classical glyph exists)
 
 **Description:** 
-the vigintile occurs at 18.0°, dividing the circle into twenty equal parts.  It is a micro-harmonic aspect that signifies minute alignment, precision-based energetic tuning, and sometimes ritual intelligence encoded in the body or psyche.  Often overlooked, vigintiles reveal small hinges that can open hidden doors — timing shifts, pattern pivots, or ritual subtleties.
+The vigintile occurs at 18.0°, dividing the circle into twenty equal parts.  It is a micro-harmonic aspect that signifies minute alignment, precision-based energetic tuning, and sometimes ritual intelligence encoded in the body or psyche.  Often overlooked, vigintiles reveal small hinges that can open hidden doors — timing shifts, pattern pivots, or ritual subtleties.
 
 While not overtly powerful on their own, vigintiles are activation sparks: subtle frequencies that sync when all other forces are aligned.  They often connect inner cues of outer opportunities in quiet, elegant ways. 
 

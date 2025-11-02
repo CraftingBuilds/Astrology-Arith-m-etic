@@ -17,5 +17,5 @@ Sun novile Saturn: Spiritual dedication to personal structure; lessons in endura
 Venus novile Neptune: Quiet mystical devotion in love; beauty aligned with universal love or divine ideals.
 
 **Use in Practice:**
-Mobiles are most powerful when interpreted in the context of ritual, spiritual devotion, and long-term growth.  In chart analysis, they often reveal where the soul is working behind the scenes — patiently refining, healing, and aligning over time.  They may not manifest in obvious ways, but carry potent transformative force when supported by conscious action.
+Noviles are most powerful when interpreted in the context of ritual, spiritual devotion, and long-term growth.  In chart analysis, they often reveal where the soul is working behind the scenes — patiently refining, healing, and aligning over time.  They may not manifest in obvious ways, but carry potent transformative force when supported by conscious action.
 In spiritual practice, mobiles invite the chart holder to listen inwardly, trust divine cycles, and honor quiet discipline.  They can mark areas where subtle breakthroughs, initiations, and or spoils promises reside.
