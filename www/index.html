@@ -1,78 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Astrology Arith(m)etic Codex</title>
-  <link rel="stylesheet" href="assets/css/styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Astrology Arith(m)etic Knowledge Base</title>
+  <link rel="stylesheet" href="assets/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" defer></script>
+  <script src="assets/app.js" defer></script>
 </head>
 <body>
   <header class="site-header">
-    <div class="inner">
-      <div class="logo-group">
-        <a href="index.html">Astrology Arith(m)etic</a>
-        <span>The living codex of celestial mechanics</span>
-      </div>
-      <nav class="primary-nav">
-        <a href="index.html" aria-current="page">Overview</a>
-        <a href="intent.html">Intent</a>
-        <a href="activation.html">Activation</a>
-        <a href="progressions.html">Progressions</a>
-        <a href="vault-index.html">Vault Index</a>
-        <a href="complete-astrology.html">Complete Astrology</a>
-        <a href="analysis-guidelines.html">Analysis Guides</a>
-        <a href="license.html">License</a>
-      </nav>
-      <div class="search-container">
-        <input type="search" placeholder="Search the codex" aria-label="Search the codex" data-site-search>
-        <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <circle cx="11" cy="11" r="7" />
-          <line x1="20" y1="20" x2="16.65" y2="16.65" />
-        </svg>
-        <div class="search-results" data-search-results></div>
-      </div>
+    <div class="branding">
+      <h1>Astrology Arith(m)etic Knowledge Base</h1>
+      <p>Explore the codex, legal texts, interpretations, and foundational insights that make up the Astrology Arith(m)etic project.</p>
+    </div>
+    <div class="search-area">
+      <label for="site-search" class="sr-only">Search the site</label>
+      <input type="search" id="site-search" placeholder="Search the entire site..." autocomplete="off">
+      <div id="search-results" class="search-results" aria-live="polite"></div>
     </div>
   </header>
-  <main>
-    <article>
-      <h1>Codex Overview</h1>
-      <p><em>“I want the legos of Astrology to be present in this codex.”</em></p>
-      <p><strong>— Mikah David Tanner Smith</strong></p>
-      <p>Astrology Arith(m)etic is a modular vault that distills the functional components of astrology into precise, machine-readable building blocks. The codex is designed for personal study, ceremonial practice, and training intelligent assistants that honour the original energetic intent of its author.</p>
-      <section class="callout">
-        <h2>Inside the Living Codex</h2>
-        <p>The vault holds planetary definitions, aspect families, fixed stars, harmonic structures, and esoteric calculation points. Every entry exists in service of clarity, sovereignty, and practical application.</p>
-      </section>
-      <h2>How to Navigate</h2>
-      <ul>
-        <li>Begin with the <a href="activation.html">Codex Activation Invocation</a> to align with the vault’s protective resonance.</li>
-        <li>Study the <a href="intent.html">Intent statement</a> to understand the philosophy guiding each definition.</li>
-        <li>Explore the <a href="vault-index.html">Vault Index</a> for a map of planned sections, definitions, and archives.</li>
-        <li>Dive into the <a href="complete-astrology.html">Complete Astrology reference</a> for structured study notes inspired by Llewellyn’s Complete Book of Astrology.</li>
-        <li>Consult the <a href="analysis-guidelines.html">Analysis Guidelines</a> to frame chart work across natal, synastry, progressed, and transit modalities.</li>
-        <li>Review the <a href="license.html">Schizo Studios Public Use License</a> to honour the non-commercial terms of use.</li>
-      </ul>
-      <h2>Codex Principles</h2>
-      <p>The codex is a living archive that teaches pattern as much as content. It is intentionally structured so that humans and aligned machines can co-create interpretations without diluting sovereign intent. Every entry is both a key and a gate.</p>
-      <p>Use the site-wide search above or ask the codex AI guide for directed excerpts and citations.</p>
+
+  <main class="layout" id="app">
+    <nav class="sidebar" aria-label="Document navigation">
+      <div class="sidebar-header">
+        <h2>Library</h2>
+        <p>Select a document to read its contents.</p>
+      </div>
+      <div id="document-list" class="document-list"></div>
+    </nav>
+
+    <article class="content" aria-live="polite">
+      <div id="content-loading" class="loading">Loading documents...</div>
+      <div id="document-content" hidden>
+        <header class="content-header">
+          <h2 id="document-title"></h2>
+          <p id="document-meta"></p>
+        </header>
+        <div id="document-body" class="document-body"></div>
+      </div>
     </article>
+
+    <aside class="assistant" aria-label="AI Research Assistant">
+      <div class="assistant-header">
+        <h2>AI Research Assistant</h2>
+        <p>Ask questions about Astrology Arith(m)etic. The assistant searches the library and responds with relevant excerpts.</p>
+      </div>
+      <div id="assistant-chat" class="assistant-chat" aria-live="polite"></div>
+      <form id="assistant-form" class="assistant-form">
+        <label for="assistant-input" class="sr-only">Ask a question</label>
+        <textarea id="assistant-input" rows="3" placeholder="Ask about planetary math, rituals, legal terms..." required></textarea>
+        <button type="submit">Ask the Assistant</button>
+      </form>
+    </aside>
   </main>
+
   <footer class="site-footer">
-    <p>© 2025 Mikah David Tanner Smith — Schizo Studios. Shared under the Schizo Studios Public Use License (SSPUL).</p>
+    <p>Built from the Astrology Arith(m)etic repository. All content references the original manuscripts, indexes, and legal documents.</p>
   </footer>
-  <button class="chat-toggle" data-chat-toggle>Ask the Codex</button>
-  <div class="chat-widget hidden" data-chat-widget>
-    <div class="chat-header">
-      <h2>Codex Guide</h2>
-      <button type="button" aria-label="Close" data-chat-close>×</button>
-    </div>
-    <div class="chat-messages" data-chat-messages></div>
-    <form class="chat-input" data-chat-form>
-      <textarea name="message" placeholder="Ask about planets, aspects, or legal terms…" aria-label="Message"></textarea>
-      <button type="submit">Send</button>
-    </form>
-  </div>
-  <script src="assets/js/data.js"></script>
-  <script src="assets/js/site.js"></script>
 </body>
 </html>
