@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Astrology Arith(m)etic Knowledge Base</title>
+  <link rel="stylesheet" href="assets/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" defer></script>
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="branding">
+      <h1>Astrology Arith(m)etic Knowledge Base</h1>
+      <p>Explore the codex, legal texts, interpretations, and foundational insights that make up the Astrology Arith(m)etic project.</p>
+    </div>
+    <div class="search-area">
+      <label for="site-search" class="sr-only">Search the site</label>
+      <input type="search" id="site-search" placeholder="Search the entire site..." autocomplete="off">
+      <div id="search-results" class="search-results" aria-live="polite"></div>
+    </div>
+  </header>
+
+  <main class="layout" id="app">
+    <nav class="sidebar" aria-label="Document navigation">
+      <div class="sidebar-header">
+        <h2>Library</h2>
+        <p>Select a document to read its contents.</p>
+      </div>
+      <div id="document-list" class="document-list"></div>
+    </nav>
+
+    <article class="content" aria-live="polite">
+      <div id="content-loading" class="loading">Loading documents...</div>
+      <div id="document-content" hidden>
+        <header class="content-header">
+          <h2 id="document-title"></h2>
+          <p id="document-meta"></p>
+        </header>
+        <div id="document-body" class="document-body"></div>
+      </div>
+    </article>
+
+    <aside class="assistant" aria-label="AI Research Assistant">
+      <div class="assistant-header">
+        <h2>AI Research Assistant</h2>
+        <p>Ask questions about Astrology Arith(m)etic. The assistant searches the library and responds with relevant excerpts.</p>
+      </div>
+      <div id="assistant-chat" class="assistant-chat" aria-live="polite"></div>
+      <form id="assistant-form" class="assistant-form">
+        <label for="assistant-input" class="sr-only">Ask a question</label>
+        <textarea id="assistant-input" rows="3" placeholder="Ask about planetary math, rituals, legal terms..." required></textarea>
+        <button type="submit">Ask the Assistant</button>
+      </form>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <p>Built from the Astrology Arith(m)etic repository. All content references the original manuscripts, indexes, and legal documents.</p>
+  </footer>
+</body>
+</html>
