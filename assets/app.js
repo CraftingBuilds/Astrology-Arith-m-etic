@@ -2,7 +2,7 @@ const DOCUMENTS = [
   {
     id: 'readme',
     title: 'Project README',
-    path: '../README.md',
+    path: 'README.md',
     category: 'Overview',
     description: 'Project overview, philosophy, and quick context for Astrology Arith(m)etic.',
     type: 'markdown'
@@ -10,7 +10,7 @@ const DOCUMENTS = [
   {
     id: 'index-master',
     title: 'Master Index',
-    path: '../INDEX.md',
+    path: 'INDEX.md',
     category: 'Overview',
     description: 'Primary index that maps the larger Astrology Arith(m)etic corpus.',
     type: 'markdown'
@@ -18,7 +18,7 @@ const DOCUMENTS = [
   {
     id: 'intent',
     title: 'Intent of Astrology Arith(m)etic',
-    path: '../00. Intent of Astrology Arith(m)etic.md',
+    path: '00. Intent of Astrology Arith(m)etic.md',
     category: 'Foundations',
     description: 'Opening treatise explaining the aim, covenant, and scope of the work.',
     type: 'markdown'
@@ -26,7 +26,7 @@ const DOCUMENTS = [
   {
     id: 'building-blocks',
     title: 'Building Blocks Manuscript',
-    path: '../Astrology Arith(m)etic - The Building Blocks of Astrology.md',
+    path: 'Astrology Arith(m)etic - The Building Blocks of Astrology.md',
     category: 'Foundations',
     description: 'Detailed manuscript describing the mathematical and esoteric building blocks.',
     type: 'markdown'
@@ -34,7 +34,7 @@ const DOCUMENTS = [
   {
     id: 'vault-index',
     title: 'Vault Index',
-    path: '../Astrology Arithetic Vault - The Building Blocks of Astrology - Index.md',
+    path: 'Astrology Arithetic Vault - The Building Blocks of Astrology - Index.md',
     category: 'Foundations',
     description: 'Index for the Building Blocks vault, mapping ritual components and formulas.',
     type: 'markdown'
@@ -42,7 +42,7 @@ const DOCUMENTS = [
   {
     id: 'astro-arith-index',
     title: 'Astro Arith Index (Legacy HTML)',
-    path: '../Astro-Arith-Index.html',
+    path: 'Astro-Arith-Index.html',
     category: 'Legacy HTML',
     description: 'Historic HTML index included with the repository.',
     type: 'html'
@@ -50,23 +50,15 @@ const DOCUMENTS = [
   {
     id: 'landing',
     title: 'Landing Page Manuscript',
-    path: '../Astrology Arith(m)etic Landing.html',
+    path: 'Astrology Arith(m)etic Landing.html',
     category: 'Legacy HTML',
     description: 'Legacy landing page describing project entry points.',
     type: 'html'
   },
   {
-    id: 'landing-working',
-    title: 'Landing Page (Working Draft)',
-    path: '../Astrology Arith-m-etic Landing (Working).html',
-    category: 'Legacy HTML',
-    description: 'Working draft of the landing page.',
-    type: 'html'
-  },
-  {
     id: 'index-html',
     title: 'Legacy index.html',
-    path: '../index.html',
+    path: 'index.html',
     category: 'Legacy HTML',
     description: 'Original index HTML file included in the repository.',
     type: 'html'
@@ -74,7 +66,7 @@ const DOCUMENTS = [
   {
     id: 'notable-progressions',
     title: 'Notable Astrology Arithetic Progressions',
-    path: '../Notable Astrology Arithetic Progressions.md',
+    path: 'Notable Astrology Arithetic Progressions.md',
     category: 'Progressions',
     description: 'Catalog of notable progressions, rituals, and esoteric advancements.',
     type: 'markdown'
@@ -82,7 +74,7 @@ const DOCUMENTS = [
   {
     id: 'codex-dedication',
     title: 'Codex Dedication Bindrune',
-    path: '../Codex Dedication Bindrune.md',
+    path: 'Codex Dedication Bindrune.md',
     category: 'Rituals & Invocations',
     description: 'Dedication bindrune aligning the practitioner with the codex.',
     type: 'markdown'
@@ -90,7 +82,7 @@ const DOCUMENTS = [
   {
     id: 'codex-activation',
     title: 'Codex Activation Invocation',
-    path: '../Codex Activation Invocation.md',
+    path: 'Codex Activation Invocation.md',
     category: 'Rituals & Invocations',
     description: 'Invocation script for activating the codex and aligning intent.',
     type: 'markdown'
@@ -98,7 +90,7 @@ const DOCUMENTS = [
   {
     id: 'analysis-guidelines',
     title: 'Analysis Guidelines',
-    path: '../Analysis Guidelines/INDEX.md',
+    path: 'Analysis Guidelines/INDEX.md',
     category: 'Guides',
     description: 'Guidelines that inform analysis practices for Astrology Arith(m)etic.',
     type: 'markdown'
@@ -106,7 +98,7 @@ const DOCUMENTS = [
   {
     id: 'interpretation',
     title: 'Interpretation Index',
-    path: '../Interpretation/INDEX.md',
+    path: 'Interpretation/INDEX.md',
     category: 'Interpretation',
     description: 'Index describing interpretative frameworks and reading structures.',
     type: 'markdown'
@@ -114,7 +106,7 @@ const DOCUMENTS = [
   {
     id: 'complete-astrology-readme',
     title: 'Complete Astrology README',
-    path: '../Complete Astrology/README.md',
+    path: 'Complete Astrology/README.md',
     category: 'Complete Astrology',
     description: 'Readme outlining the Complete Astrology materials in the repository.',
     type: 'markdown'
@@ -122,7 +114,7 @@ const DOCUMENTS = [
   {
     id: 'complete-astrology-index',
     title: 'Complete Astrology Index',
-    path: '../Complete Astrology/INDEX.md',
+    path: 'Complete Astrology/INDEX.md',
     category: 'Complete Astrology',
     description: 'Index summarizing the Complete Astrology module.',
     type: 'markdown'
@@ -130,7 +122,7 @@ const DOCUMENTS = [
   {
     id: 'legal-license',
     title: 'Legal License',
-    path: '../Legal/LICENSE.md.md',
+    path: 'Legal/LICENSE.md.md',
     category: 'Legal',
     description: 'Legal license establishing usage rights and obligations.',
     type: 'markdown'
@@ -138,7 +130,7 @@ const DOCUMENTS = [
   {
     id: 'legal-index',
     title: 'Legal Index',
-    path: '../Legal/INDEX.md',
+    path: 'Legal/INDEX.md',
     category: 'Legal',
     description: 'Index for the legal framework surrounding Astrology Arith(m)etic.',
     type: 'markdown'
