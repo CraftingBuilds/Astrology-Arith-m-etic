@@ -1,4 +1,4 @@
-const SITE_DOCUMENTS = [
+window.SITE_DOCUMENTS = [
   {
     "id": "overview",
     "title": "Codex Overview",
