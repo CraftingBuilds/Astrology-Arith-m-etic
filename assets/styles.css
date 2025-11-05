@@ -316,6 +316,57 @@ body.dark {
   color: var(--text-light);
 }
 
+.assistant-summary {
+  background: rgba(91, 75, 138, 0.08);
+  border: 1px solid rgba(91, 75, 138, 0.15);
+  border-radius: calc(var(--radius) - 4px);
+  padding: 0.85rem 1rem;
+}
+
+.assistant-summary ul {
+  margin: 0.65rem 0 0;
+  padding-left: 1.1rem;
+}
+
+.assistant-summary li {
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.assistant-summary li:last-child {
+  margin-bottom: 0;
+}
+
+.assistant-sources {
+  margin-top: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.assistant-source {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 0.75rem 0.85rem;
+  border-radius: calc(var(--radius) - 4px);
+  border: 1px solid rgba(91, 75, 138, 0.15);
+  background: rgba(91, 75, 138, 0.05);
+}
+
+.assistant-source-meta strong {
+  display: block;
+  font-size: 0.9rem;
+  color: var(--accent);
+}
+
+.assistant-source-meta span {
+  display: block;
+  margin-top: 0.3rem;
+  font-size: 0.82rem;
+  color: var(--text-light);
+}
+
 .assistant-form {
   display: flex;
   flex-direction: column;
