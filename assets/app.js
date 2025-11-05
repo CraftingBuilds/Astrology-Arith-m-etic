@@ -1,6 +1,6 @@
 import { formatDisplayPath, resolveDocumentPath } from './path-utils.js';
 
-const DOCUMENTS = [
+const FALLBACK_DOCUMENTS = [
   {
     id: 'readme',
     title: 'Project README',
@@ -139,6 +139,8 @@ const DOCUMENTS = [
   }
 ];
 
+let DOCUMENTS = [];
+
 const state = {
   cache: new Map(),
   searchIndex: [],
@@ -147,55 +149,94 @@ const state = {
 };
 
 document.addEventListener('DOMContentLoaded', () => {
-  renderDocumentList();
   bootstrapApplication();
-  setupSearch();
-  setupAssistant();
 });
 
 async function bootstrapApplication() {
   const loadingIndicator = document.getElementById('content-loading');
   try {
-    await preloadDocuments();
+    DOCUMENTS = await loadDocumentManifest();
+    renderDocumentList(DOCUMENTS);
+    await preloadDocuments(DOCUMENTS);
     loadingIndicator.textContent = 'Documents loaded. Select a title to begin reading or ask a question.';
     const firstDocument = DOCUMENTS[0];
     if (firstDocument) {
       displayDocument(firstDocument.id);
     }
+    setupSearch();
+    setupAssistant();
   } catch (error) {
     console.error('Failed to preload documents', error);
     loadingIndicator.textContent = 'We were unable to load the documents. Refresh the page to try again.';
   }
 }
 
-async function preloadDocuments() {
+async function loadDocumentManifest() {
+  const manifestPath = resolveDocumentPath('assets/documents.json');
+
+  try {
+    const response = await fetch(manifestPath, { cache: 'no-store' });
+    if (!response.ok) {
+      throw new Error(`Failed to fetch manifest from ${manifestPath}`);
+    }
+
+    const manifest = await response.json();
+    if (!Array.isArray(manifest) || !manifest.length) {
+      throw new Error('Document manifest is empty or malformed');
+    }
+
+    return manifest;
+  } catch (error) {
+    console.warn('Falling back to embedded manifest', error);
+    return FALLBACK_DOCUMENTS;
+  }
+}
+
+async function preloadDocuments(documents) {
+  state.cache.clear();
   state.searchIndex = [];
   state.chunkIndex = [];
-  const loadPromises = DOCUMENTS.map(async (doc) => {
-    const resolvedPath = resolveDocumentPath(doc.path);
-    const response = await fetch(resolvedPath);
-    if (!response.ok) {
-      throw new Error(`Failed to fetch ${resolvedPath}`);
+
+  const loadPromises = documents.map(async (doc) => {
+    try {
+      const displayPath = formatDisplayPath(doc.path);
+      const resolvedPath = doc.url || resolveDocumentPath(doc.path);
+      const raw = typeof doc.content === 'string' ? doc.content : await fetchDocument(resolvedPath);
+      const html = convertToHtml(doc, raw);
+      const text = extractPlainText(html);
+
+      const entry = {
+        ...doc,
+        resolvedPath,
+        displayPath,
+        raw,
+        html,
+        text,
+        snippet: buildSnippet(text)
+      };
+
+      state.cache.set(doc.id, entry);
+      state.searchIndex.push(entry);
+      const chunks = chunkDocument(entry);
+      chunks.forEach((chunk) => state.chunkIndex.push(chunk));
+    } catch (error) {
+      console.warn(`Unable to load document ${doc.path}`, error);
     }
-    const raw = await response.text();
-    const html = convertToHtml(doc, raw);
-    const text = extractPlainText(html);
-    const entry = {
-      ...doc,
-      resolvedPath,
-      displayPath: formatDisplayPath(doc.path),
-      raw,
-      html,
-      text,
-      snippet: buildSnippet(text)
-    };
-    state.cache.set(doc.id, entry);
-    state.searchIndex.push(entry);
-    const chunks = chunkDocument(entry);
-    chunks.forEach((chunk) => state.chunkIndex.push(chunk));
   });
 
   await Promise.all(loadPromises);
+
+  if (!state.searchIndex.length) {
+    throw new Error('No documents were loaded into the search index.');
+  }
+}
+
+async function fetchDocument(resolvedPath) {
+  const response = await fetch(resolvedPath, { cache: 'no-store' });
+  if (!response.ok) {
+    throw new Error(`Failed to fetch ${resolvedPath}`);
+  }
+  return response.text();
 }
 
 function convertToHtml(doc, raw) {
@@ -320,10 +361,19 @@ function chunkDocument(entry, maxWords = 140, overlap = 30) {
   return chunks;
 }
 
-function renderDocumentList() {
+function renderDocumentList(documents) {
   const container = document.getElementById('document-list');
   container.innerHTML = '';
-  const categories = groupByCategory(DOCUMENTS);
+
+  if (!Array.isArray(documents) || !documents.length) {
+    const empty = document.createElement('p');
+    empty.className = 'category-description';
+    empty.textContent = 'No documents were found in the repository manifest.';
+    container.appendChild(empty);
+    return;
+  }
+
+  const categories = groupByCategory(documents);
 
   for (const [category, docs] of categories) {
     const categoryWrapper = document.createElement('section');
@@ -363,15 +413,19 @@ function renderDocumentList() {
 function groupByCategory(list) {
   const map = new Map();
   list.forEach((doc) => {
-    const docs = map.get(doc.category) || [];
+    const category = doc.category || 'Resources';
+    const docs = map.get(category) || [];
     docs.push(doc);
-    map.set(doc.category, docs);
+    map.set(category, docs);
   });
-  return map;
+  return Array.from(map.entries())
+    .sort((a, b) => a[0].localeCompare(b[0], undefined, { sensitivity: 'base' }))
+    .map(([category, docs]) => [category, docs.sort((a, b) => a.title.localeCompare(b.title))]);
 }
 
 function describeCategory(category) {
   const descriptions = {
+    'Root': 'Documents located at the repository root.',
     'Overview': 'High-level orientation and navigational aids.',
     'Foundations': 'Core manuscripts that explain the Astrology Arith(m)etic system.',
     'Progressions': 'Catalogues of notable advancements and formulae.',

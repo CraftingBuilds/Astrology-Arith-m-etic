@@ -1,5 +1,12 @@
 (function () {
-  const rawDocs = Array.isArray(window.SITE_DOCUMENTS) ? window.SITE_DOCUMENTS : [];
+  const fallbackDocs = Array.isArray(window.SITE_DOCUMENTS) ? window.SITE_DOCUMENTS : [];
+  let documents = [];
+
+  const documentsPromise = (async () => {
+    const rawDocs = await loadRepositoryDocuments(fallbackDocs);
+    documents = preprocessDocuments(rawDocs);
+    return documents;
+  })();
 
   function normaliseQuery(query) {
     return (query || '').trim().toLowerCase();
@@ -87,32 +94,66 @@
     return score;
   }
 
-  const documents = rawDocs.map((doc) => {
-    const normalized = (doc.content || '').replace(/\r/g, '');
-    const paragraphs = normalized
-      .split(/\n{2,}/)
-      .map((chunk) => chunk.trim())
-      .filter(Boolean);
+  async function loadRepositoryDocuments(fallback) {
+    try {
+      const response = await fetch('assets/documents.json', { cache: 'no-store' });
+      if (!response.ok) {
+        throw new Error(`Failed to fetch manifest: ${response.status}`);
+      }
 
-    const tokens = new Set();
-    paragraphs.forEach((paragraph) => {
-      paragraph
-        .toLowerCase()
-        .split(/[^a-z0-9]+/)
-        .forEach((token) => {
-          if (token.length > 1) {
-            tokens.add(token);
-          }
+      const manifest = await response.json();
+      if (!Array.isArray(manifest) || !manifest.length) {
+        throw new Error('Document manifest was empty.');
+      }
+
+      return manifest;
+    } catch (error) {
+      console.warn('Falling back to embedded SITE_DOCUMENTS payload', error);
+      return fallback;
+    }
+  }
+
+  function preprocessDocuments(rawDocs) {
+    return rawDocs
+      .filter((doc) => doc && typeof doc.content === 'string' && doc.content.trim().length)
+      .map((doc) => {
+        const normalized = (doc.content || '').replace(/\r/g, '');
+        const paragraphs = normalized
+          .split(/\n{2,}/)
+          .map((chunk) => chunk.trim())
+          .filter(Boolean);
+
+        const tokens = new Set();
+        paragraphs.forEach((paragraph) => {
+          paragraph
+            .toLowerCase()
+            .split(/[^a-z0-9]+/)
+            .forEach((token) => {
+              if (token.length > 1) {
+                tokens.add(token);
+              }
+            });
         });
-    });
 
-    return {
-      ...doc,
-      content: normalized,
-      paragraphs,
-      tokens,
-    };
-  });
+        const safeUrl = typeof doc.url === 'string' && doc.url.trim() ? doc.url : encodePath(doc.path || '');
+
+        return {
+          ...doc,
+          url: safeUrl,
+          content: normalized,
+          paragraphs,
+          tokens,
+        };
+      });
+  }
+
+  function encodePath(path) {
+    if (!path) return '';
+    return path
+      .split('/')
+      .map((segment) => encodeURIComponent(segment))
+      .join('/');
+  }
 
   function collectMatches(query) {
     const phrase = normaliseQuery(query);
@@ -440,7 +481,13 @@
     });
   }
 
-  document.addEventListener('DOMContentLoaded', () => {
+  document.addEventListener('DOMContentLoaded', async () => {
+    try {
+      await documentsPromise;
+    } catch (error) {
+      console.error('Failed to hydrate repository documents for search', error);
+    }
+
     ensureSkipLink();
     setActiveNav();
     attachSearch();
