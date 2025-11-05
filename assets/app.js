@@ -1,3 +1,5 @@
+import { formatDisplayPath, resolveDocumentPath } from './path-utils.js';
+
 const DOCUMENTS = [
   {
     id: 'readme',
@@ -140,6 +142,7 @@ const DOCUMENTS = [
 const state = {
   cache: new Map(),
   searchIndex: [],
+  chunkIndex: [],
   currentId: null
 };
 
@@ -166,16 +169,21 @@ async function bootstrapApplication() {
 }
 
 async function preloadDocuments() {
+  state.searchIndex = [];
+  state.chunkIndex = [];
   const loadPromises = DOCUMENTS.map(async (doc) => {
-    const response = await fetch(doc.path);
+    const resolvedPath = resolveDocumentPath(doc.path);
+    const response = await fetch(resolvedPath);
     if (!response.ok) {
-      throw new Error(`Failed to fetch ${doc.path}`);
+      throw new Error(`Failed to fetch ${resolvedPath}`);
     }
     const raw = await response.text();
     const html = convertToHtml(doc, raw);
     const text = extractPlainText(html);
     const entry = {
       ...doc,
+      resolvedPath,
+      displayPath: formatDisplayPath(doc.path),
       raw,
       html,
       text,
@@ -183,6 +191,8 @@ async function preloadDocuments() {
     };
     state.cache.set(doc.id, entry);
     state.searchIndex.push(entry);
+    const chunks = chunkDocument(entry);
+    chunks.forEach((chunk) => state.chunkIndex.push(chunk));
   });
 
   await Promise.all(loadPromises);
@@ -220,6 +230,94 @@ function escapeHtml(input) {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#039;');
+}
+
+function chunkDocument(entry, maxWords = 140, overlap = 30) {
+  const temp = document.createElement('div');
+  temp.innerHTML = entry.html;
+  const nodes = temp.querySelectorAll('h1, h2, h3, h4, h5, h6, p, li, blockquote');
+  const segments = [];
+  let currentHeading = entry.title;
+
+  nodes.forEach((node) => {
+    const tag = node.tagName.toLowerCase();
+    if (tag.startsWith('h')) {
+      const headingText = node.textContent?.replace(/\s+/g, ' ').trim();
+      if (headingText) {
+        currentHeading = headingText;
+      }
+      return;
+    }
+
+    const text = node.textContent?.replace(/\s+/g, ' ').trim();
+    if (!text) return;
+    segments.push({ heading: currentHeading, text });
+  });
+
+  const chunks = [];
+  let buffer = [];
+  let bufferWordCount = 0;
+  let chunkIndex = 0;
+
+  const pushChunk = () => {
+    if (!bufferWordCount) return;
+    const chunkText = buffer.map((part) => part.text).join(' ').trim();
+    if (!chunkText) {
+      buffer = [];
+      bufferWordCount = 0;
+      return;
+    }
+
+    const firstHeading = buffer.find((part) => part.heading)?.heading || entry.title;
+    const chunkHeading = firstHeading === entry.title ? entry.title : `${entry.title} – ${firstHeading}`;
+    const text = chunkText;
+
+    chunks.push({
+      id: `${entry.id}::${chunkIndex++}`,
+      docId: entry.id,
+      title: entry.title,
+      heading: chunkHeading,
+      text,
+      tokens: tokenize(text)
+    });
+
+    if (overlap > 0) {
+      const words = text.split(/\s+/);
+      const overlapWords = words.slice(-overlap);
+      buffer = overlapWords.length
+        ? [{ heading: firstHeading, text: overlapWords.join(' ') }]
+        : [];
+      bufferWordCount = overlapWords.length;
+    } else {
+      buffer = [];
+      bufferWordCount = 0;
+    }
+  };
+
+  segments.forEach((segment) => {
+    const words = segment.text.split(/\s+/).filter(Boolean);
+    let pointer = 0;
+    while (pointer < words.length) {
+      const remaining = maxWords - bufferWordCount;
+      const take = Math.min(remaining, words.length - pointer);
+      const slice = words.slice(pointer, pointer + take).join(' ');
+      if (slice) {
+        buffer.push({ heading: segment.heading, text: slice });
+        bufferWordCount += take;
+      }
+      pointer += take;
+
+      if (bufferWordCount >= maxWords) {
+        pushChunk();
+      }
+    }
+  });
+
+  if (bufferWordCount) {
+    pushChunk();
+  }
+
+  return chunks;
 }
 
 function renderDocumentList() {
@@ -299,7 +397,8 @@ function displayDocument(docId) {
   const loading = document.getElementById('content-loading');
 
   title.textContent = record.title;
-  meta.textContent = `${record.category} • Source file: ${record.path.replace(/^\.\.\//, '')}`;
+  const sourcePath = record.displayPath || record.path;
+  meta.textContent = `${record.category} • Source file: ${sourcePath}`;
   body.innerHTML = record.html;
 
   loading.hidden = true;
@@ -465,10 +564,9 @@ function setupAssistant() {
     chat.appendChild(bubble);
     chat.scrollTop = chat.scrollHeight;
   };
-
   const respond = (question) => {
-    const matches = rankDocuments(question, 3);
-    if (!matches.length) {
+    const answer = buildAssistantAnswer(question);
+    if (!answer) {
       addMessage(
         'assistant',
         `<strong>Assistant</strong><p>I could not find anything matching that question. Try rephrasing or referencing a specific ritual, index, or term.</p>`
@@ -476,17 +574,7 @@ function setupAssistant() {
       return;
     }
 
-    const answers = matches
-      .map((match) => {
-        const link = `<button type="button" class="source" data-doc-id="${match.id}">Open document →</button>`;
-        return `<p><strong>${match.title}</strong><br>${highlightSnippet(match.snippet, match.tokens)}</p>${link}`;
-      })
-      .join('');
-
-    addMessage(
-      'assistant',
-      `<strong>Assistant</strong>${answers}<p class="assistant-note">These excerpts are drawn directly from the repository. Open a document to read it in full.</p>`
-    );
+    addMessage('assistant', answer);
   };
 
   chat.addEventListener('click', (event) => {
@@ -506,6 +594,134 @@ function setupAssistant() {
 
   addMessage(
     'assistant',
-    `<strong>Assistant</strong><p>Welcome! Ask me about any manuscript, ritual, or legal framework. I will search the collection and provide direct excerpts.</p>`
+    `<strong>Assistant</strong><p>Welcome! Ask me about any manuscript, ritual, or legal framework. I will search the collection, pull the most relevant passages, and synthesize an answer with citations.</p>`
   );
+}
+
+function buildAssistantAnswer(question) {
+  const tokens = tokenize(question);
+  if (!tokens.length) return null;
+
+  const matches = rankChunks(question, 4);
+  if (!matches.length) return null;
+
+  const summary = synthesizeAnswer(tokens, matches);
+  const sources = matches.map((match) => {
+    const snippet = buildContextualSnippet(match.text, tokens);
+    return {
+      id: match.docId,
+      title: match.title,
+      heading: match.heading,
+      snippet,
+      tokens
+    };
+  });
+
+  const sourcesHtml = sources
+    .map((source) => {
+      const displayTitle = source.heading && source.heading !== source.title ? source.heading : source.title;
+      const snippetHtml = highlightSnippet(escapeHtml(source.snippet), source.tokens);
+      return `
+        <div class="assistant-source">
+          <div class="assistant-source-meta">
+            <strong>${escapeHtml(displayTitle)}</strong>
+            <span>${snippetHtml}</span>
+          </div>
+          <button type="button" class="source" data-doc-id="${source.id}">Open document →</button>
+        </div>
+      `;
+    })
+    .join('');
+
+  return `
+    <strong>Assistant</strong>
+    ${summary}
+    <div class="assistant-sources">
+      <p class="assistant-note">Supporting passages:</p>
+      ${sourcesHtml}
+    </div>
+  `;
+}
+
+function rankChunks(query, limit = 4) {
+  const tokens = tokenize(query);
+  if (!tokens.length) return [];
+
+  return state.chunkIndex
+    .map((chunk) => {
+      const baseScore = scoreEntry({ text: chunk.text }, tokens);
+      const heading = chunk.heading?.toLowerCase() || '';
+      const title = chunk.title?.toLowerCase() || '';
+      const headingBoost = tokens.reduce((score, token) => {
+        const lowerToken = token.toLowerCase();
+        if (heading.includes(lowerToken)) score += 3;
+        if (title.includes(lowerToken)) score += 1;
+        return score;
+      }, 0);
+      const totalScore = baseScore + headingBoost;
+      return {
+        ...chunk,
+        score: totalScore
+      };
+    })
+    .filter((item) => item.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, limit);
+}
+
+function synthesizeAnswer(tokens, matches) {
+  const tokenSet = new Set(tokens.map((token) => token.toLowerCase()));
+  const insights = matches.map((match) => {
+    const sentences = extractSupportingSentences(match.text, tokenSet, 2);
+    const sentenceHtml = highlightSnippet(escapeHtml(sentences.join(' ')), tokens);
+    const displayHeading = match.heading && match.heading !== match.title ? match.heading : match.title;
+    return `<li><strong>${escapeHtml(displayHeading)}</strong> — ${sentenceHtml}</li>`;
+  });
+
+  if (!insights.length) {
+    const fallback = matches
+      .map((match) => `<li><strong>${escapeHtml(match.title)}</strong> — ${highlightSnippet(escapeHtml(buildContextualSnippet(match.text, tokens)), tokens)}</li>`)
+      .join('');
+    return `
+      <div class="assistant-summary">
+        <p>Here is what I gathered from the repository:</p>
+        <ul>${fallback}</ul>
+      </div>
+    `;
+  }
+
+  return `
+    <div class="assistant-summary">
+      <p>Here is what I gathered from the repository:</p>
+      <ul>
+        ${insights.join('')}
+      </ul>
+    </div>
+  `;
+}
+
+function extractSupportingSentences(text, tokenSet, limit = 2) {
+  const sentences = text
+    .split(/(?<=[.!?])\s+/)
+    .map((sentence) => sentence.trim())
+    .filter(Boolean);
+
+  if (!sentences.length) {
+    return [text];
+  }
+
+  const ranked = sentences
+    .map((sentence) => {
+      const lower = sentence.toLowerCase();
+      const score = Array.from(tokenSet).reduce((acc, token) => (lower.includes(token) ? acc + 1 : acc), 0);
+      return { sentence, score };
+    })
+    .sort((a, b) => b.score - a.score);
+
+  const topSentences = ranked.filter((item) => item.score > 0).slice(0, limit);
+  if (topSentences.length) {
+    return topSentences.map((item) => item.sentence);
+  }
+
+  return sentences.slice(0, limit);
 }
